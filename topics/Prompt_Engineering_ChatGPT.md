@@ -1,3 +1,10 @@
+# Técnicas básicas de prompt engineering
+* Zero-shot y One-shot Prompting
+* Chain-of-Thought Prompting
+* Optimizar resultados con estructuras de texto específicas
+* Mejorar resultados iterando
+
+
 El propósito de usar *Chain-of-thought* con LLM como ChatGPT, es generar texto estructurado y coherente a partir de una línea de pensamiento como ejemplo
 
 La principal ventaja del *zero-shot* prompting es que no requiere datos de entrenamiento adicionales
