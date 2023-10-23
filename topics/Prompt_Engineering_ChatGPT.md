@@ -41,6 +41,8 @@ Se refiere cuando se le solicita al modelo, que la respuesta la de en una estruc
 nuevamente, explicale la diferencia entre ambas tecnologias pero ahora con una historia de piratas donde se enfrenten a dinosarios y tiburones que tienen piernas de humano y pueden respirar tanto en la superficie como en el mar
 ```
 
+[ver conversaion](https://chat.openai.com/share/1f4a1d79-c8eb-4174-bfe2-ad525e2aa9b4)
+
 
 # Técnicas básicas de prompt engineering
 * Zero-shot y One-shot Prompting
