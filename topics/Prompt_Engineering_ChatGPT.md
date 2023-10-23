@@ -2,6 +2,31 @@
 Un prompt es una pregunta que se le hace a ChatGPT
 
 ## Estructura de un prompt
+Un prompt tiene los siguientes puntos que le dan estructura y son: *instrucción, contexto, inputs y outputs*. Cabe señalar, que no es necesario que los 4 puntos están inlcuidos en un prompt.
+
+### Instrucción
+Se trata de la tarea o instrucción a resolver. Es la tarea solicitada al modelo (ChatGPT). Esta solicitud, puede ser una pregunta simple o compleja. 
+
+Ejemplo:
+```
+```
+
+
+### Contexto
+Es información adicional que se le proporciona al modelo para mejorar su respuesta. 
+
+Ejemplo:
+```
+```
+
+### Inputs
+Es información adicional que se le proporciona al modelo para que realice comparaciones y mejorar su respuesta. Esto se da cuando se le proporciona un ejemplo al modelo para que a partir de este mejore su respuesta.
+
+Ejemplo:
+```
+```
+
+
 
 # Técnicas básicas de prompt engineering
 * Zero-shot y One-shot Prompting
