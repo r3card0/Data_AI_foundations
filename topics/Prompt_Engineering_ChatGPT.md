@@ -9,6 +9,7 @@ Se trata de la tarea o instrucción a resolver. Es la tarea solicitada al modelo
 
 Ejemplo:
 ```
+¿qué es una base de datos relacional?
 ```
 
 
@@ -17,6 +18,7 @@ Es información adicional que se le proporciona al modelo para mejorar su respue
 
 Ejemplo:
 ```
+ahora, explica a un niño de 8 años, que es una base de datos relacional con ejemplos que el entienda
 ```
 
 #### Inputs
@@ -24,10 +26,20 @@ Es información adicional que se le proporciona al modelo para que realice compa
 
 Ejemplo:
 ```
+explicale al niño, la diferencia entre la base de datos relacional y las tablas de un archivo excel
+```
+
+
+```
+explicalo nuevamente cambiando la palabra carpeta por caja de carton, porque el niño no usa carpetas
 ```
 
 #### Outputs
 Se refiere cuando se le solicita al modelo, que la respuesta la de en una estructura deseada, como por ejemplo que de una tabla de comparación, o que proporcione divisiones por categoria a través de bullets numéricos o no numéricos. Este es opcional y se da cuando se brinda mas detalle al modelo para que mejore su respuesta.
+
+```
+nuevamente, explicale la diferencia entre ambas tecnologias pero ahora con una historia de piratas donde se enfrenten a dinosarios y tiburones que tienen piernas de humano y pueden respirar tanto en la superficie como en el mar
+```
 
 
 # Técnicas básicas de prompt engineering
