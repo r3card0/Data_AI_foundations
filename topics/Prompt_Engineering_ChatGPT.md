@@ -1,3 +1,6 @@
+# ChatGPT
+Es una modelo de inteligencia artificial que genera lenguaje estructurado.
+
 # Como escribir prompts en ChatGPT
 Un prompt es una pregunta que se le hace a ChatGPT. Es recomendable considerar la fecha del tema porque los modelos pueden tener información actuializada haste la fecha considerada. Por ejemplo, ChatGPT, en su lanzamiento, tuvo información hasta septiembre del 2021.
 
