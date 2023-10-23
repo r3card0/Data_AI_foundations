@@ -2,7 +2,7 @@
 
 - [ ] [Guía para empezar una carrera en Data Science e Inteligencia Artificial]()
 - [ ] [Introduccion a Inteligencia Artificial]()
-- [ ] [Prompt Engineering con ChatGPT](/Data_AI_foundations/topics
+- [ ] [Prompt Engineering con ChatGPT](/topics
 /Prompt_Engineering_ChatGPT.md)
 - [ ] [Etica y manejo de Datos para Data Science e Inteligencia Artificial]()
 - [ ] [Estadistica y Probabilidad]()
