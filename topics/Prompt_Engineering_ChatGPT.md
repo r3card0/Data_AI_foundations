@@ -1,7 +1,7 @@
 # ChatGPT
 Es una modelo de inteligencia artificial que genera lenguaje estructurado.
 
-- [ ] [Como escribir prompts en ChatGPT]()
+- [ ] [Como escribir prompts en ChatGPT](https://github.com/r3card0/Data_AI_foundations/blob/main/topics/Prompt_Engineering_ChatGPT.md#como-escribir-prompts-en-chatgpt)
 - [ ] [Técnicas básicas de prompt engineering]()
 - [ ] [Técnicas avanzadas de prompt engineering]()
 
