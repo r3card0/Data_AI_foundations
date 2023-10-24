@@ -73,6 +73,8 @@ La principal diferencia entre *few-shot* prompting y *one-prompting* es que *few
 
 ## Role play
 ## Knowledge Generation / Knowledge Integration
+Es una técnica usada para mejorar los modelos de lenguaje y que incluye la capacidad de generar y/o incorporar conocimiento o información para ayudar al modelo a generar respuestas mucho mas precisas.
+
 ### Knowledge Generation
 Es la capacidad del modelo para generar nueva información o conocimiento y luego ser usada como parte del prompt. Este concepto consiste en guiar al modelo a darnos información específica sobre algún tema y que luego pueda utilizar toda esa información para generar respuestas precisas a problemas más complejos. ㅤ El siguiente ejemplo (extraido de Prompt Engineering Guide) demuestra el concepto de Knowledge Generation. Iniciamos con un prompt sencillo en el que la respuesta generada por el modelo no es correcta. ㅤ
 
