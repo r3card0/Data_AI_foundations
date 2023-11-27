@@ -28,3 +28,13 @@ Son datos personales que permiten identificar digitalmente a una persona. Ejempl
 * Reconocimiento de escritura
 * Reconocimiento de voz
 * Reconocimiento de escritura de teclado
+
+# Clasificacion de datos Biometricos
+Por naturaleza
+* Universal: son los datos que se comparten con otras personas, por ejemplo el tipo de sangre
+* Unicos: un datos que pertenezca unicamente a la persona, por ejemplo un analisis clinico
+* Permanentes: por ejemplo la huella dactilar
+
+Segun sus caracteristicas
+* Rasgo fisicos y fisiologicos: socn aquellos que se distinguen a simple vista por ejemplo alto, delgado, gordo, chaparro
+* Rasgos de comportamiento y personalidad: por el comportamiento de persona, alegre, inteligente, enojon, etc.
