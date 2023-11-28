@@ -199,6 +199,8 @@ En líneas generales, Cambridge Analytica identificaba a personas que podían se
 
 Este tipo de estrategia electoral fue revelada en la campaña de Donald Trump en Estados Unidos y se menciona que el PRI en México también haya hecho contratación de este servicio con Cambridge Analytica.
 
+[The great Hack](https://es.wikipedia.org/wiki/El_Gran_Hackeo)
+
 # Reglamentos
 - [ ] [Ley federal de Proteccion de Datos Personales en Posesion de Particulares - Mexico](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf)
 - [ ] [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
