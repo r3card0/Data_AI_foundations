@@ -205,7 +205,7 @@ Este tipo de estrategia electoral fue revelada en la campaña de Donald Trump en
 - [ ] [Ley federal de Proteccion de Datos Personales en Posesion de Particulares - Mexico](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf)
 - [ ] [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
 
-# Miedos y preocupaciones en la implementacion de los vehiculos autonomos
+# Etica y Deep Learning: Miedos y preocupaciones en la implementacion de los vehiculos autonomos
 Los vehículos autónomos son automóviles capaces de imitar las capacidades de los seres humanos de conducir. Su tecnología está diseñada para hacer un reconocimiento de las imágenes que capta de su entorno a través técnicas complejas, sistemas de posicionamiento y visión computarizada. De esa manera el vehículo tiene dos órdenes: seguir avanzando o detener la marcha.
 
 Esta innovación existe gracias al esfuerzo de grandes empresas como por ejemplo Tesla. Sin embargo, todavía no la vemos en las calles aun cuando muchas empresas ya están apostando por esta tecnología.
@@ -218,5 +218,25 @@ Estos vehículos poseen un código binario que toma acciones en función de cont
 No obstante, los datos demuestran que esta tecnología es más segura que la capacidad humana para conducir autos.
 
 Las posibilidades de que una persona infrinja la ley, experimente reacciones emocionales y cualquier efecto que podemos tener como seres humanos son más propensos a causar accidentes automovilísticos que los autos inteligentes. Pero, persisten dilemas éticos que han impedido disfrutar de esta tecnología.
+
+# Etica y Deep Learning: Reconocimiento facial
+El reconocimiento facial se refiere al reconocimiento o identificación de la identidad de una persona mediante su rostro basada en datos biométricos. Estos datos son del rostro completo o de una imagen parcial del rostro como la retina del ojo.
+
+Esta tecnología se apoya en el reconocimiento de vectores que identifican los rasgos de una persona. Este tipo de tecnología se desarrolló con el objetivo de acceder a espacios físicos con más comodidad, por ejemplo, gimnasios, a tu espacio de trabajo, universidades u otro sitio, con la idea de que no tengas que portar un gafete ni ningún otro identificador para tener acceso a estos lugares.
+
+Sin duda esta tecnología tiene sus beneficios, sin embargo, debes detenerte a pensar que estás ofreciendo datos biométricos únicos de tu rostro y un mal uso de esta información puede significar una vulnerabilidad a tus datos sin dejar de mencionar los riesgos de una fuga de información.
+
+Como usuario tienes el derecho de decidir a quién otorgarle tus datos biométricos. Por ejemplo, debes tener la opción de decidir si prefieres llevar tu gafete u otro instrumento de identificación para tener acceso a los partes donde te lo exijan. Es una decisión totalmente personal, de tal manera que puedas determinar a quién otorgarlo y a quiénes no.
+
+También es importante que los expertos en tecnología cuando hagan un desarrollo tienen que reflexionar desde el punto de vista del usuario y evaluar si es ético solicitar este tipo de datos, si en realidad se justifica y especialmente cómo vas a proteger esta información.
+
+## Ejemplos de reconocimiento facial
+Cada vez existen más aplicaciones móviles que funcionan a partir del reconocimiento facial, lo cual está supliendo la acción de escribir una contraseña; sin embargo, debes pensar a qué empresa se lo estás otorgando.
+
+Probablemente, para el caso del acceso a tu móvil no sientas que haya mayores implicaciones; pero, cuando se trata de una aplicación bancaria donde los datos son muy sensibles y que probablemente no accedas todos los días, te puedes plantear la idea de reconsiderar esta modalidad del reconocimiento facial.
+
+En algunos países como México se están introduciendo leyes para garantizar y proteger el uso de estos datos biométricos.
+
+También se están planteando los modelos híbridos en el que solamente haces la validación final, de manera que tú otorgas el reconocimiento facial, pero en una fase previa utilizas la modalidad de contraseñas.
 
 
