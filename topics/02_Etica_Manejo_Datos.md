@@ -172,7 +172,7 @@ Las interacciones en las redes sociales pueden potenciar a que estemos contentos
 
 Este tipo de situaciones afecta especialmente a poblaciones más jóvenes, quienes están más influenciadas por la información y usan las redes sociales como mecanismo de aceptación personal y autoestima, lo que conlleva a que sean vulnerables a este tipo de ataques.
 
-Te invito a ver el documental que se llama The Social Dilemma o El dilema social, donde se expone este problema. Así mismo, te dejo una liga donde Freddy Vega hace un análisis del mencionado documental.
+Te invito a ver el [documental](https://platzi.com/clases/1035-live-show/32806-que-es-verdad-y-que-no-en-the-social-dilemma/) que se llama The Social Dilemma o El dilema social, donde se expone este problema. Así mismo, te dejo una liga donde Freddy Vega hace un análisis del mencionado documental.
 
 ![The social dilemma ](https://static.platzi.com/media/articlases/Images/image%28423%29.png)
 
