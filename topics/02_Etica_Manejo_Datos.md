@@ -239,6 +239,6 @@ En algunos países como México se están introduciendo leyes para garantizar y 
 
 También se están planteando los modelos híbridos en el que solamente haces la validación final, de manera que tú otorgas el reconocimiento facial, pero en una fase previa utilizas la modalidad de contraseñas.
 
-[Mapa de Reconocimiento faciale en Europa](https://static.platzi.com/media/user_upload/recnoncimeinti-816b9c99-2b47-44d1-b79a-5357c0bfcef7.jpg)
+![Mapa de Reconocimiento faciale en Europa](https://static.platzi.com/media/user_upload/recnoncimeinti-816b9c99-2b47-44d1-b79a-5357c0bfcef7.jpg)
 
 
