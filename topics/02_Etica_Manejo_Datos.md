@@ -176,6 +176,29 @@ Te invito a ver el [documental](https://platzi.com/clases/1035-live-show/32806-q
 
 ![The social dilemma ](https://static.platzi.com/media/articlases/Images/image%28423%29.png)
 
+# Advertencias del uso de datos en campañas politicas
+Desde hace algunos años los gobiernos comenzaron a tener interés en los datos poblacionales con la idea de poder predecir qué partido va a ganar, expectativas de los votantes, cómo medirlo, en qué lugares se inclinan por determinado partido, cómo es la distribución demográfica por edades, etc.
+
+El uso de los datos poblacionales ha tenido un impacto impresionante en todas las áreas del conocimiento. Esta recolección proviene de diferentes fuentes y al ser concentradas y manipuladas por una entidad puede lograr un sinfín de resultados con ellos. Por su puesto, las organizaciones políticas no han desaprovechado las bondades que ofrece el Big Data.
+
+Algunas organizaciones políticas han contratado servicios para poder llegar a un paso más allá en el manejo de los datos. Una empresa que hace investigación de recursos políticos y también predicción política es **Cambridge Analytica**.
+
+## El panorama actual
+Actualmente, ya no existe bajo los mismos términos que sucedía en el pasado, ya que cometieron actos que en su momento no eran delitos, porque no había disposiciones legales que calificaran sus servicios como tales en términos legales, pero actualmente si han penalizado ese tipo de servicios.
+
+Cambridge Analytica ofrecía servicios para negocios y también para campañas de partidos políticos, con el fin de predecir resultados electorales, pero, también, usando estrategias para influir y manipular a la población para votar o inclinar sus preferencias hacia un determinado partido político.
+
+La contratación de este servicio ahora es ilegal, pero en aquel momento no estaban sentadas las bases para considerar esta actividad al margen de ley.
+
+## Mecanismos de recolección de datos
+Uno de los mecanismos utilizados por estas empresas para predecir resultados es con el uso de datos propios y datos externos recolectados a través de las encuestas. Preferiblemente, se recolectan datos de las redes sociales, como por ejemplo Facebook, que es la red donde más personas están compartiendo sus preferencias políticas.
+
+También se usa la ciencia del comportamiento que ayuda a predecir los comportamientos sociales, así como la utilización de modelos predictivos.
+
+En líneas generales, Cambridge Analytica identificaba a personas que podían ser vulnerables o personas que todavía no tenían una conciencia política definida o una preferencia política determinada. A través de anuncios se manipulaba la información para que votaran por el candidato que estaba contratando sus servicios.
+
+Este tipo de estrategia electoral fue revelada en la campaña de Donald Trump en Estados Unidos y se menciona que el PRI en México también haya hecho contratación de este servicio con Cambridge Analytica.
+
 # Reglamentos
 - [ ] [Ley federal de Proteccion de Datos Personales en Posesion de Particulares - Mexico](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf)
 - [ ] [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
