@@ -241,4 +241,25 @@ También se están planteando los modelos híbridos en el que solamente haces la
 
 ![Mapa de Reconocimiento faciale en Europa](https://static.platzi.com/media/user_upload/recnoncimeinti-816b9c99-2b47-44d1-b79a-5357c0bfcef7.jpg)
 
+# Etica del uso de datos en la pandemia
+Otro dilema ético relacionado con los datos es probablemente el que se originó con la pandemia covid-19. Esta crisis sanitaria significó un reto para todos los recolectores de datos, los gobiernos y los ciudadanos.
+
+## Estrategias restrictivas
+Algunos gobiernos han actuado de una manera más restrictiva y otros han actuado de una manera más abierta.
+
+* Restricción del acceso entre países y visitas intermunicipales
+* Exigencia de vacunas y pruebas de antígenos
+* Controles a partir de bases de datos del aforo limitado de sitios públicos
+* Políticas de cuarentena forzosa (algunas más estrictas que otras)
+* Cuarentena forzosa (en algunos casos más estrictas que otros)
+
+## Proceso de detección covid-19 en España
+En el caso de España, por ejemplo, en el momento cuando una persona era diagnosticada con covid-19 tenía que llamar a un teléfono público y notificar sobre su infección.
+
+1. Se realizaba un rastreo a las personas de las personas con las que el enfermo había estado en contacto
+2. Se monitoreaba su caso durante una cuarentena forzosa
+3. Aleatoriamente, recibía llamadas para saber cómo se sentía y para determinar si estaba respetando el aislamiento en su casa
+
+
+La pandemia ha sido un reto para todos y todas y no hay todavía un establecimiento nacional o internacional que haya fijado pautas para la recolección de datos. A nivel mundial cada país tiene sus propios mecanismos y políticas para enfrentar la pandemia.
 
