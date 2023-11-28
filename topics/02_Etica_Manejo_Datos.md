@@ -177,7 +177,7 @@ Te invito a ver el [documental](https://platzi.com/clases/1035-live-show/32806-q
 ![The social dilemma ](https://static.platzi.com/media/articlases/Images/image%28423%29.png)
 
 # Advertencias del uso de datos en campañas politicas
-Desde hace algunos años los gobiernos comenzaron a tener interés en los datos poblacionales con la idea de poder predecir qué partido va a ganar, expectativas de los votantes, cómo medirlo, en qué lugares se inclinan por determinado partido, cómo es la distribución demográfica por edades, etc.
+Desde hace algunos años *los gobiernos comenzaron a tener interés en los datos poblacionales* con la idea de poder predecir qué partido va a ganar, expectativas de los votantes, cómo medirlo, en qué lugares se inclinan por determinado partido, cómo es la distribución demográfica por edades, etc.
 
 El uso de los datos poblacionales ha tenido un impacto impresionante en todas las áreas del conocimiento. Esta recolección proviene de diferentes fuentes y al ser concentradas y manipuladas por una entidad puede lograr un sinfín de resultados con ellos. Por su puesto, las organizaciones políticas no han desaprovechado las bondades que ofrece el Big Data.
 
