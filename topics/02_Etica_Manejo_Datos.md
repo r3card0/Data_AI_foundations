@@ -263,3 +263,5 @@ En el caso de España, por ejemplo, en el momento cuando una persona era diagnos
 
 La pandemia ha sido un reto para todos y todas y no hay todavía un establecimiento nacional o internacional que haya fijado pautas para la recolección de datos. A nivel mundial cada país tiene sus propios mecanismos y políticas para enfrentar la pandemia.
 
+![Sala Sitacional Peru](https://static.platzi.com/media/user_upload/Sala%20situacional%20Covid-19%20Per%C3%BA-082b21db-500a-46fb-9614-e08a60de64b7.jpg)
+
