@@ -265,3 +265,29 @@ La pandemia ha sido un reto para todos y todas y no hay todavía un establecimie
 
 ![Sala Sitacional Peru](https://static.platzi.com/media/user_upload/Sala%20situacional%20Covid-19%20Per%C3%BA-082b21db-500a-46fb-9614-e08a60de64b7.jpg)
 
+# Etica en las relaciones interpersonales
+En la actualidad las relaciones interpersonales han experimentado un cambio muy importante, ahora tenemos las redes sociales, podemos hablar con nuestro equipo de trabajo de manera virtual, usamos diversas aplicaciones para este fin.
+
+Especialmente después de la pandemia de covid-19 nos hemos acostumbrado a utilizar dispositivos como Zoom u otro tipo de aplicaciones que facilitan la comunicación de manera virtual.
+
+## Ventajas y desventajas de la comunicación virtual
+Sin embargo, si bien es importante reconocer las ventajas de las comunicaciones virtuales,
+
+|Ventajas|	Desventajas|
+|--------|-------------|
+|Permiten que la comunicación prevalezca|	Generan escándalos de fuga de información|
+|Tiene features tecnológicas modernas para conectarse	|Existe un riesgo de gran exposición de datos y de clonación de identidad|
+
+Por todas las razones explicadas, los desarrolladores y desarrolladoras de tecnología siempre deben brindar un espacio seguro y garantizar que las comunicaciones se efectúen con los menores riesgos posibles.
+
+### El dilema de otorgar permisos
+Ahora es pertinente hablar sobre la importancia de decidir si le otorgamos los permisos de acceso a los micrófonos de nuestros móviles a redes sociales como Instagram o Facebook, ya que mientras tengan dominio sobre los micrófonos también pueden tener acceso a lo que hablamos.
+
+Finalmente, vamos a hablar sobre un tema que se ha empezado a discutir recientemente relacionado con las redes sociales después de la vida.
+
+Cuando una persona fallece deja su huella digital, deja el rastro de toda la información que tenía en vida en sus redes sociales Twitter, Instagram, TikTok, etcétera. Ahora puedes decidir qué hacer con estas redes sociales.
+
+Las redes sociales ofrecen la posibilidad de seleccionar a un heredero para que sea la persona responsable de tomar la decisión sobre eliminar tus redes o mantenerlas después de la vida, para no dejar una huella abierta dentro del espacio digital.
+
+En el espacio de privacidad de tus redes sociales ya puedes tomar esta decisión y designar una persona responsable del manejo de tus datos.
+
