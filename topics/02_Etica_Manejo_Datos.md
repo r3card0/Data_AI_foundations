@@ -205,3 +205,18 @@ Este tipo de estrategia electoral fue revelada en la campaña de Donald Trump en
 - [ ] [Ley federal de Proteccion de Datos Personales en Posesion de Particulares - Mexico](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf)
 - [ ] [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
 
+# Miedos y preocupaciones en la implementacion de los vehiculos autonomos
+Los vehículos autónomos son automóviles capaces de imitar las capacidades de los seres humanos de conducir. Su tecnología está diseñada para hacer un reconocimiento de las imágenes que capta de su entorno a través técnicas complejas, sistemas de posicionamiento y visión computarizada. De esa manera el vehículo tiene dos órdenes: seguir avanzando o detener la marcha.
+
+Esta innovación existe gracias al esfuerzo de grandes empresas como por ejemplo Tesla. Sin embargo, todavía no la vemos en las calles aun cuando muchas empresas ya están apostando por esta tecnología.
+
+Los principales obstáculos que ha enfrentado esta tecnología es el referido a dilemas éticos que se fundamentan en la posibilidad de que su código sufra algún daño o que sea corrompido.
+
+## Cómo funcionan los vehículos autónomos
+Estos vehículos poseen un código binario que toma acciones en función de continuar la marcha o detenerse. El temor a cualquier daño en su código, ataques cibernéticos o cualquier funcionamiento irregular ha detenido la puesta de vehículos autónomos en las calles.
+
+No obstante, los datos demuestran que esta tecnología es más segura que la capacidad humana para conducir autos.
+
+Las posibilidades de que una persona infrinja la ley, experimente reacciones emocionales y cualquier efecto que podemos tener como seres humanos son más propensos a causar accidentes automovilísticos que los autos inteligentes. Pero, persisten dilemas éticos que han impedido disfrutar de esta tecnología.
+
+
