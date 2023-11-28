@@ -64,4 +64,6 @@ Esta lista no es exhaustiva y resume todos los tipos de datos que permiten ident
 Sin embargo, algunos de estos datos están especialmente protegidos, como la ideología, orientación sexual, afiliación sindical, salud, religión u origen racial o étnico de una persona, lo que implica que su nivel de seguridad es superior a los demás. En estos casos debe constar expresamente y por escrito el consentimiento del afectado a que esos datos puedan ser recopilados y tratados, sin perjuicio de que la ley lo permita por razones de interés general, o sea necesario para salvaguardar el interés vital del afectado u otra persona.
 
 # Reglamentos
-[Ley federal de Proteccion de Datos Personales en Posesion de Particulares - Mexico](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf)
+- [ ] [Ley federal de Proteccion de Datos Personales en Posesion de Particulares - Mexico](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf)
+- [ ] [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
+
