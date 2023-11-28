@@ -126,6 +126,55 @@ Así pues, debemos asegurarnos de tener calidad en los datos y en la fuente de a
 
 Si no tenemos una fuente confiable para obtener nuestros datos, estos no van a permitir una conclusión relevante o fidedigna. Por lo tanto, se precisa recolectar un buen input para tener un buen output.
 
+# Advertencias en el uso de datos en el Marketing
+Una de las áreas que se ha beneficiado en mayor proporción con el uso y manejo de datos es la publicitaria. Sus estrategias de marketing han experimentado un proceso de adaptación significativo gracias al fenómeno de los datos, ya que ahora se puede crear publicidad personalizada.
+
+### Alertas de uso de la información
+Las empresas cada vez usan más la información para poder hacer campañas personalizadas demostrando que no son ellas las que quieren vender un producto, sino que a partir de las necesidades del usuario las empresas ofrecen un producto para satisfacer esas carencias.
+
+Esta visión del enfoque publicitario no solo ha influido en la forma de hacer marketing, también ha sido una revolución en la elaboración de proyectos y modelos de negocios, porque todo gira en función al aporte de valor que una empresa ofrece a sus clientes.
+
+Esto ha representado una verdadera transformación del marketing en los últimos años. Antes las empresas posicionaban el producto y el usuario era el que decidía si compraba o no; ahora, los usuarios tienen el poder de manifestar opiniones, quejarse en redes sociales, calificar los productos y eso ha obligado a las empresas a adaptar el producto y la comunicación para los usuarios.
+
+Sin embargo, toda información usada por las empresas debe ser manejada con responsabilidad y con advertencias de uso.
+
+### Sesgos discriminatorios
+Los sesgos discriminatorios pueden ocurrir cuando, por ejemplo, se trata diferente la comunicación a los hombres y de las mujeres. Hay que evitar este tipo de patrones, porque al final estamos sacando conclusiones sesgadas.
+
+Los sesgos discriminatorios pueden suceder en cuanto a género, temas raciales, geográficos, edad, etc.
+
+Hay que ser conscientes del producto que queremos vender y si realmente un dato de esta sensibilidad es relevante para la manera en la que deseamos publicitar un producto.
+
+### Precios por información privilegiada
+Otro aspecto que se debe evitar es el uso de precios manipulados o precios diferentes en función de las características de la población.
+
+Esta situación ha sido un caso tradicional en las empresas de seguros.
+
+Estas empresas cuando poseen información histórica de sus clientes y saben que algunos poseen determinadas patologías le cobran más por sus pólizas de seguro.
+
+También sucede cuando las aerolíneas saben, gracias a la información que han recolectado, que algunos usuarios poseen alta disponibilidad económica, procediendo a vender sus vuelos a un precio superior que al resto de los usuarios.
+
+Esta es una conducta que hay que evitar porque están incurriendo en un abuso por la información privilegiada que manejan.
+
+### Manipulación de campañas políticas
+Otra cosa que tenemos que evitar es la manipulación de campañas políticas a través del uso de los datos de las encuestas. Estos datos que las personas ofrecen voluntariamente, no deben ser utilizados para hacer publicidad engañosa.
+
+El 24 de marzo de 2019, el diario español El país, publicó un artículo que se titulaba “Los partidos quieren tus datos".
+
+la segmentación del público y la personalización de mensajes que usan las empresas de ‘marketing’ para vendernos más y mejor pueden ser y son empleadas también en contextos políticos.
+
+En este interesante artículo se expone como el Parlamento español les otorga amplios poderes a los partidos políticos para usar los datos de la población sin su consentimiento, con fines políticos.
+
+### Fomento de conductas adictivas y ataques emocionales
+Finalmente, es importante evitar el fomento de conductas adictivas, violentas o que podrían potenciar reacciones emocionales. Evitar situaciones que afecte o altere la sensibilidad de las personas.
+
+Las interacciones en las redes sociales pueden potenciar a que estemos contentos, tristes, experimentar frustración o enojo.
+
+Este tipo de situaciones afecta especialmente a poblaciones más jóvenes, quienes están más influenciadas por la información y usan las redes sociales como mecanismo de aceptación personal y autoestima, lo que conlleva a que sean vulnerables a este tipo de ataques.
+
+Te invito a ver el documental que se llama The Social Dilemma o El dilema social, donde se expone este problema. Así mismo, te dejo una liga donde Freddy Vega hace un análisis del mencionado documental.
+
+![The social dilemma ](https://static.platzi.com/media/articlases/Images/image%28423%29.png)
 
 # Reglamentos
 - [ ] [Ley federal de Proteccion de Datos Personales en Posesion de Particulares - Mexico](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf)
