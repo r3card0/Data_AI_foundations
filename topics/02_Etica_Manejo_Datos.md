@@ -324,6 +324,9 @@ La elaboración puede depender exclusivamente por parte del Gobierno o puede hab
 Algunas políticas públicas se hacen de manera reactiva, es decir, para resolver un problema, implica la reacción a una situación, por ejemplo la pandemia. La otra opción es actuar de manera preventiva para evitar que suceda un problema o, por lo menos, evitar que el problema llegue a niveles mayores, por ejemplo, desarrollar campañas preventivas contra enfermedades.
 
 # Datos y prevención de crímenes
+
+![mapa de calor](https://2.bp.blogspot.com/-4A7py96yxz4/Wjg2_or5qBI/AAAAAAAAA78/EPnfP3xSNJYzCne3xhlJr3yVOA_U5mB_wCLcBGAs/s1600/Gra12.jpg)
+
 *Data for Good* se refiere a todo lo que involucra datos abiertos. Estos son los que se comparten con la comunidad y expertos como tú pueden empezar a procesarlos para predecir eventos.
 
 Los datos tienen dos caras pues:
