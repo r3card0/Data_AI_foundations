@@ -322,3 +322,20 @@ La elaboración puede depender exclusivamente por parte del Gobierno o puede hab
 
 ### Política según la planificación
 Algunas políticas públicas se hacen de manera reactiva, es decir, para resolver un problema, implica la reacción a una situación, por ejemplo la pandemia. La otra opción es actuar de manera preventiva para evitar que suceda un problema o, por lo menos, evitar que el problema llegue a niveles mayores, por ejemplo, desarrollar campañas preventivas contra enfermedades.
+
+# Datos y prevención de crímenes
+*Data for Good* se refiere a todo lo que involucra datos abiertos. Estos son los que se comparten con la comunidad y expertos como tú pueden empezar a procesarlos para predecir eventos.
+
+Los datos tienen dos caras pues:
+
+* Nos encontramos los dilemas éticos que se derivan de su recolección y uso
+* Es indiscutible que los datos también pueden crear oportunidades y grandes beneficios para la sociedad.
+
+## Uso de datos con fines sociales
+Existe la importancia de los datos con fines sociales, lo cual inevitablemente está vinculado con las políticas públicas; por ejemplo, algo que se ha estado explorando mucho es el desarrollo de políticas y estrategias de prevención de crímenes a partir de la información.
+
+El uso de cámaras de seguridad en los espacios públicos permite recoger información valiosa para combatir los índices de criminalidad. Esta sería una acción de tipo reactiva porque sucedido un crimen se acude a los registros de video para investigar contra qué tipo de persona se cometió el delito, a qué hora, qué tipo de crimen sucedió, coordenadas del sitio, etc.
+
+Con esta información se crea un mapa de calor para determinar los horarios críticos, cómo es la distribución de crímenes de una ciudad y también la tipología de los crímenes, solo por mencionar algunos de los beneficios.
+
+Si en sitios específicos se presenta una alta criminalidad y no hay cámaras, entonces como parte de política pública se puede ordenar la instalación de equipos de video para capturar imágenes apropiadas para combatir el problema. En cambio, si se toman decisiones para prevenir la comisión de actos delictivos en función a los datos, nos encontramos entonces ante políticas de tipo preventivo.
