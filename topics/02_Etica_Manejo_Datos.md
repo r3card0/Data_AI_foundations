@@ -344,3 +344,22 @@ Con esta información se crea un mapa de calor para determinar los horarios crí
 Si en sitios específicos se presenta una alta criminalidad y no hay cámaras, entonces como parte de política pública se puede ordenar la instalación de equipos de video para capturar imágenes apropiadas para combatir el problema. En cambio, si se toman decisiones para prevenir la comisión de actos delictivos en función a los datos, nos encontramos entonces ante políticas de tipo preventivo.
 
 ![Denuncias en Mexico](https://static.platzi.com/media/user_upload/impunidad-estadistica-9354ca30-7138-4d4a-8146-93be84899c91.jpg)
+
+# Datos y Salud
+El uso adecuado de los datos en cualquier área representa grandes oportunidades. El campo de la salud no es diferente, porque la información puede ayudar a predecir eventos que representan oportunidades importantes para la sociedad.
+
+## Ejemplo de uso de datos y salud
+El Apple Watch es un buen ejemplo para resaltar la importancia de los datos en el ámbito de la salud. Este instrumento hace un monitoreo permanente de la frecuencia cardíaca de su usuario.
+
+### Características del Apple Watch
+Existen muchos testimonios de personas que manifiestan que este reloj les salvó la vida, pues:
+
+* Conserva en memoria un histórico de datos que permite emitir alertas con estados clínicos diferentes
+* Puede salvar la vida de las personas al detectar a tiempo anomalías
+* Envía notificaciones a contactos de emergencia
+
+Adicionalmente, conserva en memoria un histórico de datos que permite emitir alertas cuando la persona que lo lleva presenta cualquier cuadro clínico diferente a los parámetros normales.
+
+Otro ejemplo es el relacionado con las investigaciones para la predicción del cáncer y otras enfermedades. La recolección de datos en las diferentes fases de una enfermedad permite analizar su evolución y llevar registros confiables que ayudan a definir la etapa en la que se encuentra un caso específico para tomar acción.
+
+Gracias a la recolección de datos se sabe con meridiana certeza cómo evoluciona una enfermedad, posible curso que puede tomar, tasa de éxito de determinados tratamientos, índices de mortalidad, tiempo promedio de incubación, desarrollo y muerte de un virus, entre otros beneficios.
