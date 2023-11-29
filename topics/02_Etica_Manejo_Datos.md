@@ -342,3 +342,5 @@ El uso de cámaras de seguridad en los espacios públicos permite recoger inform
 Con esta información se crea un mapa de calor para determinar los horarios críticos, cómo es la distribución de crímenes de una ciudad y también la tipología de los crímenes, solo por mencionar algunos de los beneficios.
 
 Si en sitios específicos se presenta una alta criminalidad y no hay cámaras, entonces como parte de política pública se puede ordenar la instalación de equipos de video para capturar imágenes apropiadas para combatir el problema. En cambio, si se toman decisiones para prevenir la comisión de actos delictivos en función a los datos, nos encontramos entonces ante políticas de tipo preventivo.
+
+![Denuncias en Mexico](https://static.platzi.com/media/user_upload/impunidad-estadistica-9354ca30-7138-4d4a-8146-93be84899c91.jpg)
