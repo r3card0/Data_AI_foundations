@@ -291,3 +291,34 @@ Las redes sociales ofrecen la posibilidad de seleccionar a un heredero para que 
 
 En el espacio de privacidad de tus redes sociales ya puedes tomar esta decisión y designar una persona responsable del manejo de tus datos.
 
+# Data for good
+
+# Politicas Publicas
+Las políticas públicas son acciones de la administración pública que tienen como objetivo satisfacer las necesidades o demandas de una comunidad o colectivo.
+
+Manuel Tamayo de la Universidad Complutense de Madrid señala que “Las políticas públicas son el conjunto de objetivos, decisiones y acciones que lleva a cabo un gobierno para solucionar los problemas que en un momento determinado los ciudadanos y el propio gobierno consideran prioritarios”.
+
+## Objetivos de las políticas públicas
+Las políticas públicas persiguen varios objetivos, los cuales podemos resumir básicamente en los siguientes:
+
+* Atender desde el Estado los problemas de los ciudadanos.
+* Implementar a partir de normas, instituciones, prestaciones y servicios. Esto involucra toda acción para reparar una calle, creación de alumbrado, etc.
+* Ayudar a alcanzar principios éticos y a crear igualdad en las sociedades.
+
+## Tipos de políticas públicas
+Las políticas públicas pueden ser clasificadas en varias tipologías que conocerás a continuación.
+
+### Política institucional
+Esta autoridad puede ser a nivel nacional, regional, municipal, local. Tenemos el caso de la pandemia de Covid-19 donde diferentes niveles de gobierno implementaron acciones para contrarrestar los efectos generados por esta enfermedad.
+
+### Política según el sector
+Estos sectores pueden ser en el ámbito médico, medio ambiente, educación, seguridad, etc.
+
+### Política según los destinatarios
+Se refiere a un tipo de política pública para personas con discapacidad, juventud, adultos mayores, etc.
+
+### Política según la elaboración
+La elaboración puede depender exclusivamente por parte del Gobierno o puede haber participación de la ciudadanía.
+
+### Política según la planificación
+Algunas políticas públicas se hacen de manera reactiva, es decir, para resolver un problema, implica la reacción a una situación, por ejemplo la pandemia. La otra opción es actuar de manera preventiva para evitar que suceda un problema o, por lo menos, evitar que el problema llegue a niveles mayores, por ejemplo, desarrollar campañas preventivas contra enfermedades.
