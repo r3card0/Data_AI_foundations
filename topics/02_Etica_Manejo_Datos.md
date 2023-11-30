@@ -464,3 +464,12 @@ El uso de estos datos permite el acceso al mundo laboral de una manera más digi
 
 ![img](https://static.platzi.com/media/user_upload/20-datos-e6d65109-36d3-4380-aebb-5d795c77d503.jpg)
 
+
+# Recursos
+
+Les comparto unos libros que les pueden servir muchísimo para profundizar en el tema:
+
+* 97 Things About Ethics Everyone in Data Science Should Know --> aquí pueden encontrar buenos buenas prácticas de grandes empresas.
+* The ethical algorithm --> explica cómo podemos integrar principios éticos en el código.
+* La gestión ética de los datos (BID) --> breve libro en español sobre uso de datos en sector público, riesgos éticos, buenas prácticas y criterios éticos.
+Espero que les sirva :-)
