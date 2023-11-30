@@ -430,3 +430,23 @@ La utilización de datos contribuye sustancialmente a gestionar de forma eficien
 En el caso de la movilidad, muchas zonas pueden llegar a ser potencialmente discriminadas social y económicamente porque plataformas como Google Maps o Waze no las priorizan dentro de sus mapas al dirigir a las y los usuarios por vías principales consideradas como “más seguras”.
 
 En consecuencia, el dilema o potencial dilema ético es si estas aplicaciones están acentuando la discriminación de esas zonas.
+
+## Datos y educación
+Las escuelas online como Platzi realizan el monitoreo y evaluación de datos para conocer a las personas y hacer recomendaciones en función de esta información.
+
+En el caso de que una persona reciba una sugerencia, esta es el resultado de algoritmos de recomendación que han recolectado información sobre los comportamiento de estudiantes.
+
+### Información valiosa desde los datos
+En este punto quizás te preguntas ¿cuál es la información más importante que busca Platzi al estudiar a sus estudiantes?
+
+Pues funciona para detectar:
+
+Cuáles son los gustos de estudiantes
+Qué tipos de cursos han finalizado y cuáles no
+A qué escuela pertenece el/la estudiante
+Cuáles son los cursos más exitosos
+A partir de este tipo de trayectorias se hace una predicción específica, ya que Platzi tiene un equipo de personas que desarrollan esta tecnología internamente y a partir de su habilidad y conocimiento pueden crear algoritmos que faciliten tu experiencia.
+
+### Beneficios de los datos
+El uso de estos datos permite el acceso al mundo laboral de una manera más digital. El posicionamiento de los diplomas en las redes sociales como LinkedIn, o cualquier otra red social, facilita que las empresas y los contratadores puedan ubicar con mayor facilidad a personas que cumplan con ciertas habilidades y conocimientos.
+
