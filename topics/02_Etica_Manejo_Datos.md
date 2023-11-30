@@ -363,3 +363,70 @@ Adicionalmente, conserva en memoria un histórico de datos que permite emitir al
 Otro ejemplo es el relacionado con las investigaciones para la predicción del cáncer y otras enfermedades. La recolección de datos en las diferentes fases de una enfermedad permite analizar su evolución y llevar registros confiables que ayudan a definir la etapa en la que se encuentra un caso específico para tomar acción.
 
 Gracias a la recolección de datos se sabe con meridiana certeza cómo evoluciona una enfermedad, posible curso que puede tomar, tasa de éxito de determinados tratamientos, índices de mortalidad, tiempo promedio de incubación, desarrollo y muerte de un virus, entre otros beneficios.
+
+# Datos y movilidad
+
+Otro ejemplo sobre Data for Good o datos para el bien son los usos que se le pueden dar a la movilidad desde una ciudad. Es increíble cómo la red de transporte de una ciudad cuenta con tecnologías que tal vez ni conocías.
+
+## Ejemplos de vehículos
+El sistema de transporte en una ciudad en cualquier lugar del mundo puede dividirse en dos tipos de vehículos:
+
+* Vehículos motorizados
+* Vehículos libres (bicicletas, scooters, patines, motocicletas)
+
+Un caso muy interesante y verás a continuación es la ECOBICI.
+
+## Sistema de ECOBICI
+Muchas ciudades incluyen sistemas de bicis públicas, como por ejemplo el caso de ECOBICI en Ciudad de México y Buenos Aires.
+
+ECOBICI es el sistema de bicicletas públicas de la Ciudad de México que ha integrado a la bicicleta como parte esencial de la movilidad, dirigido a los habitantes de la capital, de sus alrededores y a los turistas.
+
+También cuenta con su propia aplicación oficial del sistema de Transporte Individual de la CDMX, que además de permitir consultar la disponibilidad de estaciones y bicicletas en tiempo real
+
+### Funciones que ofrece la ECOBICI
+Conoce algunas funciones que ofrece la ECOBICI en México:
+
+* Trazan rutas de viaje.
+* Permiten consultar el mapa con todas las ciclo-estaciones del sistema.
+* Muestran el mapa de ciclovías de la Ciudad de México, así como de las estaciones de Metro
+* Generan reportes de incidencias sobre bicicletas, estaciones y/o el servicio.
+* Permiten consultar el histórico de usos a través de una cuenta de usuario.
+
+La aplicación utiliza servicios de localización en segundo plano para guardar las rutas. También este tipo de empresas facilitan la movilidad y también recolectan información porque toda bici está conectada a radar que suministra información detallada de su geolocalización.
+
+Los datos recolectados ayudan a determinar el flujo de la ciudad y concentración de bicicletas, lo cual contribuye a la creación de políticas públicas. Además, aporta información sobre las calles que no poseen ciclovías o donde suceden mayor cantidad de accidentes, etc.
+
+## Qué son las ciudades inteligentes
+Las ciudades inteligentes o smart cities son lugares más sustentables y ecológicos que emplean los datos para el desarrollo de tecnologías en beneficio de los ciudadanos.
+
+Según la Comisión Económica para Europa de Naciones Unidas (UNECE), la definición de ciudad inteligente incluye además elementos como la alta difusión de conectividad en los hogares y wifi en los espacios públicos, una infraestructura inteligente, medidores de electricidad inteligentes, información abierta y un gobierno electrónico.
+
+### Características de las smart cities
+Quizás alguna vez has visitado una ciudad inteligente y sostenible, pues estos lugares suelen compartir las siguientes características:
+
+* Cuenta con redes inteligentes de transporte urbano, instalaciones mejoradas para el suministro de agua y la eliminación de la basura
+* Goza de un órgano administrativo para que la ciudad sea más interactiva y receptiva
+* Utiliza las tecnologías de la información y la comunicación (TIC) para mejorar la calidad de la vida de los y las habitantes, la eficiencia y la competitividad.
+
+## Principales smart cities del mundo
+Estas principales ciudades tienen registros de los datos de seguridad, movilidad, medio ambiente, etc. de manera pública y permiten al ciudadano que los exploten y analicen.
+
+Principales ciudaded inteligentes del mundo:
+* Singapur
+* Paris
+* Tokio
+* Toronto
+* Hong Kong
+* Amsterdan
+* Londres
+* Chicago
+* Nueva york
+
+También pueden hacer un monitoreo en tiempo real del tráfico y uso de los semáforos.
+
+## La segregación que causa la tecnología
+La utilización de datos contribuye sustancialmente a gestionar de forma eficiente la movilidad en las ciudades; pero, también da origen a dilemas éticos.
+
+En el caso de la movilidad, muchas zonas pueden llegar a ser potencialmente discriminadas social y económicamente porque plataformas como Google Maps o Waze no las priorizan dentro de sus mapas al dirigir a las y los usuarios por vías principales consideradas como “más seguras”.
+
+En consecuencia, el dilema o potencial dilema ético es si estas aplicaciones están acentuando la discriminación de esas zonas.
