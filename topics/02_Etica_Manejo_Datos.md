@@ -436,6 +436,18 @@ Las escuelas online como Platzi realizan el monitoreo y evaluación de datos par
 
 En el caso de que una persona reciba una sugerencia, esta es el resultado de algoritmos de recomendación que han recolectado información sobre los comportamiento de estudiantes.
 
+## Datos y medio ambiente
+
+El uso de datos para el bien (data for good) tiene una gran importancia en el caso del medio ambiente. Los datos permiten mostrar información valiosa para la toma de decisiones en materia ambiental.
+
+Por ejemplo, la polución en el aire se puede medir a partir de detectores y sensores que emiten alertas públicas y los gobiernos se ocupan de hacerlas llegar a la ciudadanía.
+
+### Otros ejemplos de uso de datos en el medio ambiente
+Dispositivos como el Apple Watch nos pueden notificar cuál es el estado del aire en determinados días y horas con el objetivo de saber si es saludable salir a la calle o no, incluso para decidir si es adecuado hacer ejercicio al aire libre o no. Como puedes observar son decisiones reactivas porque el problema de la contaminación ya ha sucedido y solo queda tomar acciones para responder a las condiciones ambientales.
+
+Desde el punto de vista preventivo, los datos en el ámbito ambiental se da, por ejemplo, cuando sobrevolamos un dron sobre cultivos para evaluar a partir de las imágenes la calidad de estos y, en función de esta información, tomar decisiones para anticiparse a posibles problemas.
+
+Otro ejemplo es la recolección de información para determinar las condiciones del subsuelo, frutos y hojas de los cultivos para prevenir enfermedades o evitar el uso inadecuado de fertilizantes, entre otros.
 ### Información valiosa desde los datos
 En este punto quizás te preguntas ¿cuál es la información más importante que busca Platzi al estudiar a sus estudiantes?
 
@@ -449,4 +461,6 @@ A partir de este tipo de trayectorias se hace una predicción específica, ya qu
 
 ### Beneficios de los datos
 El uso de estos datos permite el acceso al mundo laboral de una manera más digital. El posicionamiento de los diplomas en las redes sociales como LinkedIn, o cualquier otra red social, facilita que las empresas y los contratadores puedan ubicar con mayor facilidad a personas que cumplan con ciertas habilidades y conocimientos.
+
+![img](https://static.platzi.com/media/user_upload/20-datos-e6d65109-36d3-4380-aebb-5d795c77d503.jpg)
 
