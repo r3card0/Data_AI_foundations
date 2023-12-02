@@ -207,7 +207,7 @@ En este ejemplo:
 Cambiar estos ajustes sería como girar los "hiperparámetros" en la varita mágica para decirle al robot cómo queremos que aprenda. Así, al ajustar estos hiperparámetros, ayudamos al robot a volverse un jugador de adivinanzas muy hábil. ¡Es como darle instrucciones mágicas para que aprenda de la mejor manera posible!
 
 #### Hyper paramatros de temperatura y top_p
-🤖 Los hiperparámetros de temperatura (temperature) y top-p son específicos del modelo de lenguaje GPT (Generative Pre-trained Transformer) y están relacionados con la generación de texto. Estos hiperparámetros se utilizan para ajustar la diversidad y la creatividad de las respuestas generadas por el modelo.
+🤖 Los hiperparámetros de temperatura (temperature) y top-p son específicos del modelo de lenguaje GPT (Generative Pre-trained Transformer) y están relacionados con la generación de texto. *Estos hiperparámetros se utilizan para ajustar la diversidad y la creatividad de las respuestas generadas por el modelo.*
 
 1. **Temperatura (Temperature):**
    - **Baja Temperatura (valor cercano a 0):** Hace que el modelo sea más determinista y tienda a generar respuestas más predecibles y centradas en las elecciones más probables.
