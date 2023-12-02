@@ -77,7 +77,7 @@ La principal diferencia entre *few-shot* prompting y *one-prompting* es que *few
 Son técnicas usadas para mejorar los modelos de lenguaje y que incluye la capacidad de generar y/o incorporar conocimiento o información para ayudar al modelo a generar respuestas mucho mas precisas.
 
 ### Knowledge Generation
-¿Que me puedes decir del concepto de Knowledge Generation aplicado en prompts?
+🍅 ¿Que me puedes decir del concepto de Knowledge Generation aplicado en prompts?
 
 🤖 ¡Hola! En el contexto de la inteligencia artificial y los modelos de lenguaje como GPT-3.5, el concepto de "Knowledge Generation" (Generación de Conocimiento) *se refiere a la capacidad del modelo para generar información nueva y relevante en función de los datos y el contexto proporcionados en el prompt.*
 
@@ -86,6 +86,22 @@ Son técnicas usadas para mejorar los modelos de lenguaje y que incluye la capac
 🤖 En la práctica, al utilizar prompts específicos, puedes solicitar al modelo que genere información o respuestas que vayan más allá de la información que ha sido directamente alimentada durante su entrenamiento. Esto permite que el modelo sea más versátil y capaz de ofrecer respuestas únicas y contextualmente relevantes en una amplia gama de situaciones.
 
 🤖 👉 Es importante señalar que, aunque los modelos de lenguaje como GPT-3.5 pueden generar conocimiento nuevo hasta cierto punto, no tienen una comprensión real del mundo y pueden producir respuestas que no son necesariamente precisas o verídicas. Por lo tanto, es fundamental interpretar y validar la información generada por estos modelos en función de la precisión y la coherencia con el conocimiento establecido.
+
+Un buen ejemplo es la capacidad del LLMs de crear historias. En base a un contexto que se proporciona en el prompt, el modelo crea una historia.
+
+🍅 Crea una historia donde haya dos personajes principales, un unicornio con poderes magicos, que hable y que cague dulces y un tiranosaurio rex que habla, le gusta mucho jugar videojuegos y sea un poco travieso. Ambos personajes no miden mas de 1.5m y siempre estan juntos viviendo aventuras en un mundo donde hay bosques magicos y piratas de alta mar.
+
+🤖 *En un mundo mágico lleno de bosques encantados y océanos misteriosos, vivían dos amigos inusuales: Sparkle, un pequeño unicornio con poderes mágicos y la habilidad única de cagar dulces, y Rex, un tiranosaurio rex parlante aficionado a los videojuegos y un tanto travieso. A pesar de sus diferencias, ambos medían no más de 1.5 metros y compartían una amistad única y especial.*
+
+🤖 *Un día, mientras exploraban un bosque mágico lleno de criaturas fascinantes y árboles centenarios, Sparkle y Rex se encontraron con un mapa antiguo que sugería la existencia de un tesoro escondido en una isla lejana. Emocionados por la perspectiva de una nueva aventura, decidieron zarpar hacia los mares desconocidos y enfrentarse a los piratas que custodiaban el tesoro.*
+
+*A lo largo de su viaje, Sparkle usaba sus poderes mágicos para iluminar el camino y proteger a sus amigos, mientras que Rex pasaba las noches jugando videojuegos en la cubierta del barco, siempre buscando mejorar sus habilidades. Aunque travieso, Rex demostró ser un aliado valioso cuando se enfrentaron a desafíos en alta mar, utilizando su astucia para resolver problemas y derrotar a los piratas enemigos.*
+
+*Durante una tormenta intensa, el barco quedó atrapado en una isla misteriosa. Mientras exploraban la isla en busca de pistas sobre el tesoro, Sparkle y Rex se encontraron con seres mágicos y desafíos que pusieron a prueba su amistad. Trabajaron juntos, superando obstáculos y resolviendo enigmas hasta llegar al lugar indicado en el mapa.*
+
+*Finalmente, encontraron el tesoro escondido, un cofre lleno de gemas resplandecientes y objetos mágicos. Al abrirlo, liberaron una energía mágica que transformó la isla en un lugar aún más maravilloso. Los amigos regresaron a casa con sus tesoros y recuerdos inolvidables de su aventura.*
+
+*A partir de ese día, Sparkle y Rex continuaron viviendo emocionantes experiencias, explorando bosques mágicos, enfrentándose a piratas y disfrutando de los videojuegos bajo la luz de la luna. Su amistad única demostró que, sin importar cuán diferentes sean dos seres, la verdadera magia se encuentra en la conexión y la diversidad de la amistad.*
 
 
 ### Knowledge Integration
