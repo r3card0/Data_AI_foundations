@@ -122,6 +122,8 @@ Describe los impactos ambientales y las implicaciones económicas de la introduc
 
 🤖 👉 Es importante señalar que, aunque los modelos de lenguaje pueden realizar tareas de Knowledge Integration hasta cierto punto, su capacidad para comprender el contexto y proporcionar respuestas precisas depende en gran medida de la calidad y diversidad de los datos con los que han sido entrenados. Además, siempre es necesario validar la información generada utilizando fuentes confiables y conocimientos establecidos para garantizar la precisión y coherencia.
 
+🧠 Knowledge Integration es la técnica  que integra el conocimiento de varios dominios para resolver un problema.
+
 ## Hiper parámetros de ChatGPT
 
 # Casos de uso de ChatGPT
