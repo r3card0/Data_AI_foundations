@@ -108,7 +108,7 @@ Un buen ejemplo es la capacidad del LLMs de crear historias. En base a un contex
 *A partir de ese día, Sparkle y Rex continuaron viviendo emocionantes experiencias, explorando bosques mágicos, enfrentándose a piratas y disfrutando de los videojuegos bajo la luz de la luna. Su amistad única demostró que, sin importar cuán diferentes sean dos seres, la verdadera magia se encuentra en la conexión y la diversidad de la amistad.*
 
 
-### Knowledge Integration
+## Knowledge Integration
 🍅 Explica la técnica de Knowledge Integration
 
 🤖 La "Knowledge Integration" (Integración de Conocimiento) es una técnica que se refiere a la *capacidad de un modelo o sistema para combinar y utilizar de manera coherente información de **diversas fuentes o áreas de conocimiento***. En el contexto de la inteligencia artificial y los modelos de lenguaje, como GPT-3.5, ***la Knowledge Integration implica la habilidad de asimilar datos de diferentes dominios y generar respuestas que integren de manera efectiva esa información diversa.***
