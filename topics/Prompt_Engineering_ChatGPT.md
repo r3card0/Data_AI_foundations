@@ -304,7 +304,7 @@ Se puede aplicar para todo lo que te imagines:
 
 # Fuentes y referencias
 - [ ] [Prompting Engineering con ChatGPT - Platzi](https://platzi.com/cursos/chatgpt/)
-- [ ] Learn Prompting org](https://learnprompting.org/es/docs/intro)
+- [ ] [Learn Prompting org](https://learnprompting.org/es/docs/intro)
 
 # Repaso
 1. ¿Cuál de las siguientes es una aplicación común de ChatGPT con prompt engineering? Creación de contenido extenso.
