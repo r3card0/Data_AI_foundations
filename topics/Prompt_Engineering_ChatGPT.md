@@ -76,10 +76,11 @@ La principal diferencia entre *few-shot* prompting y *one-prompting* es que *few
 ## Role play
 Es una tecnica usada para indicarle al model que **actue como . .**. El modelo toma la personalidad que le solicitamos y a partir de este, proporciona respuestas
 
-## Knowledge Generation / Knowledge Integration
+## Knowledge Generation
+### Knowledge Generation / Knowledge Integration
 Son técnicas usadas para mejorar los modelos de lenguaje y que incluye la capacidad de generar y/o incorporar conocimiento o información para ayudar al modelo a generar respuestas mucho mas precisas.
 
-### Knowledge Generation
+
 🍅 ¿Que me puedes decir del concepto de Knowledge Generation aplicado en prompts?
 
 🤖 ¡Hola! En el contexto de la inteligencia artificial y los modelos de lenguaje como GPT-3.5, el concepto de "Knowledge Generation" (Generación de Conocimiento) *se refiere a la capacidad del modelo para generar información nueva y relevante en función de los datos y el contexto proporcionados en el prompt.*
