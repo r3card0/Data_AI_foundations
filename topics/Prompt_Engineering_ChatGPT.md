@@ -68,7 +68,7 @@ La *iteración* en prompt engineering es una técnica para orientar al modelo a 
 La principal diferencia entre *few-shot* prompting y *one-prompting* es que *few-shot* prompting puede obtener una precisión mayor con unos cuantos ejemplos de entrenamiento. *One-shot* prompting puede ser menos preciso debido a que utiliza solo un ejemplo de entramiento.
 
 # Técnicas avanzadas de prompt engineering
-* [Role play]()
+* [Role play](https://github.com/r3card0/Data_AI_foundations/blob/main/topics/Prompt_Engineering_ChatGPT.md#role-play)
 * [knowledge Generation]()
 * [Knowledge Integration]()
 * [Hyper parámetros de ChatGPT]()
