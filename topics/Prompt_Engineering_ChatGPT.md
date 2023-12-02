@@ -282,6 +282,6 @@ Es el numero de respuestas o outputs que se esperan de un prompt. Este se puede 
 
 *Fin*
 
-[Hyper parametroe de Chat-GPT](https://learn.microsoft.com/en-us/connectors/openaigpt4ip/#edit-prompt)
+[Hyper parametros de Chat-GPT](https://learn.microsoft.com/en-us/connectors/openaigpt4ip/#edit-prompt)
 
 # Casos de uso de ChatGPT
