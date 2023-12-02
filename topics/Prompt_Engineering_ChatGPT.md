@@ -4,6 +4,7 @@ Es una modelo de inteligencia artificial que genera lenguaje estructurado.
 - [ ] [Como escribir prompts en ChatGPT](https://github.com/r3card0/Data_AI_foundations/blob/main/topics/Prompt_Engineering_ChatGPT.md#como-escribir-prompts-en-chatgpt)
 - [ ] [Técnicas básicas de prompt engineering](https://github.com/r3card0/Data_AI_foundations/blob/main/topics/Prompt_Engineering_ChatGPT.md#t%C3%A9cnicas-b%C3%A1sicas-de-prompt-engineering)
 - [ ] [Técnicas avanzadas de prompt engineering](https://github.com/r3card0/Data_AI_foundations/blob/main/topics/Prompt_Engineering_ChatGPT.md#t%C3%A9cnicas-avanzadas-de-prompt-engineering)
+- [ ] [Casos de uso]()
 
 # Como escribir prompts en ChatGPT
 Un prompt es una pregunta que se le hace a ChatGPT. Es recomendable considerar la fecha del tema porque los modelos pueden tener información actuializada haste la fecha considerada. Por ejemplo, ChatGPT, en su lanzamiento, tuvo información hasta septiembre del 2021.
@@ -76,15 +77,15 @@ La principal diferencia entre *few-shot* prompting y *one-prompting* es que *few
 Son técnicas usadas para mejorar los modelos de lenguaje y que incluye la capacidad de generar y/o incorporar conocimiento o información para ayudar al modelo a generar respuestas mucho mas precisas.
 
 ### Knowledge Generation
-Es la capacidad del modelo para generar nueva información o conocimiento y luego ser usada como parte del prompt. Este concepto consiste en guiar al modelo a darnos información específica sobre algún tema y que luego pueda utilizar toda esa información para generar respuestas precisas a problemas más complejos. ㅤ El siguiente ejemplo (extraido de Prompt Engineering Guide) demuestra el concepto de Knowledge Generation. Iniciamos con un prompt sencillo en el que la respuesta generada por el modelo no es correcta. ㅤ
+¿Que me puedes decir del concepto de Knowledge Generation aplicado en prompts?
 
-📥 Prompt: “Parte del golf es tratar de obtener un puntaje más alto que los demás. Sí o no?” ❌ Respuesta: Sí.
+🤖 ¡Hola! En el contexto de la inteligencia artificial y los modelos de lenguaje como GPT-3.5, el concepto de "Knowledge Generation" (Generación de Conocimiento) *se refiere a la capacidad del modelo para generar información nueva y relevante en función de los datos y el contexto proporcionados en el prompt.*
 
-ㅤ Estos errores o limitaciones del modelo podemos mejorarlos a través de la técnica de generación de conocimiento, introduciendo prompts que guíen al modelo a aprender sobre lo que preguntamos para luego poder dar una respuesta correcta a la pregunta puntual. Para este caso, en el prompt realizamos una afirmación que no es precisa para que el modelo corrija esta información. Luego, al pasar el prompt que generaba la respuesta incorrecta, utilizará el conocimiento generado por si mismo para dar una respuesta mucho más precisa: ㅤ
+🤖 Cuando aplicas el concepto de Knowledge Generation en prompts, *estás aprovechando la capacidad del modelo para comprender el contexto y generar respuestas que no solo se basan en la información existente en sus datos de entrenamiento, sino que también incorporan una capacidad para razonar, inferir y, en ciertos casos, generar contenido nuevo.*
 
-📥 Prompt: “Parte del golf es tratar de obtener un puntaje más alto que los demás.” 🧠 Respuesta: El objetivo del golf es jugar un conjunto de hoyos en el menor número de golpes. Una ronda de golf típicamente consta de 18 hoyos. Cada hoyo se juega una vez en la ronda en un campo de golf estándar. Cada golpe se cuenta como un punto, y el número total de golpes se utiliza para determinar el ganador del juego.
+🤖 En la práctica, al utilizar prompts específicos, puedes solicitar al modelo que genere información o respuestas que vayan más allá de la información que ha sido directamente alimentada durante su entrenamiento. Esto permite que el modelo sea más versátil y capaz de ofrecer respuestas únicas y contextualmente relevantes en una amplia gama de situaciones.
 
-📥 Prompt: “Parte del golf es tratar de obtener un puntaje más alto que los demás. Sí o no?” ✅ Respuesta: No, el objetivo del golf no es obtener un total de puntos más alto que los demás. Al contrario, el objetivo es jugar un conjunto de hoyos en el menor número de golpes posible. El número total de golpes se utiliza para determinar el ganador del juego, no el número total de puntos.
+🤖 👉 Es importante señalar que, aunque los modelos de lenguaje como GPT-3.5 pueden generar conocimiento nuevo hasta cierto punto, no tienen una comprensión real del mundo y pueden producir respuestas que no son necesariamente precisas o verídicas. Por lo tanto, es fundamental interpretar y validar la información generada por estos modelos en función de la precisión y la coherencia con el conocimiento establecido.
 
 
 ### Knowledge Integration
