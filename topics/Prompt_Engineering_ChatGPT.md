@@ -124,6 +124,44 @@ Describe los impactos ambientales y las implicaciones económicas de la introduc
 
 🧠 Knowledge Integration es la técnica  que integra el conocimiento de varios dominios para resolver un problema.
 
+🍅 como ejemplo de la tecnica de Knowledge integration, quiero combinar el conocimiento de dos dominios, el primero el de petrofisica basica y el segundo de Python, entonces, crea una clase que cuente con una funcion que calcule la porosidad primaria de una formacion
+
+🤖 Claro, puedo proporcionarte un ejemplo simple de integración de conocimientos combinando el dominio de petrofísica básica y el lenguaje de programación Python. Aquí tienes una clase que incluye una función para calcular la porosidad primaria de una formación:
+
+```python
+class PetrofisicaCalculadora:
+    def __init__(self, densidad_matriz, densidad_fluido, densidad_grano):
+        self.densidad_matriz = densidad_matriz
+        self.densidad_fluido = densidad_fluido
+        self.densidad_grano = densidad_grano
+
+    def calcular_porosidad_primaria(self):
+        try:
+            # Fórmula de porosidad primaria
+            porosidad_primaria = (
+                (self.densidad_matriz - self.densidad_fluido) /
+                (self.densidad_matriz - self.densidad_grano)
+            ) * 100
+
+            return porosidad_primaria
+
+        except ZeroDivisionError:
+            print("Error: La densidad de la matriz y la densidad del grano deben ser distintas.")
+
+# Ejemplo de uso
+if __name__ == "__main__":
+    # Crear una instancia de la clase PetrofisicaCalculadora
+    calculadora = PetrofisicaCalculadora(densidad_matriz=2.65, densidad_fluido=1.0, densidad_grano=2.71)
+
+    # Calcular y mostrar la porosidad primaria
+    porosidad_resultado = calculadora.calcular_porosidad_primaria()
+    print(f"La porosidad primaria es: {porosidad_resultado:.2f}%")
+```
+
+🤖 En este ejemplo, la clase `PetrofisicaCalculadora` tiene un método llamado `calcular_porosidad_primaria`. Este método utiliza la fórmula de porosidad primaria, una medida común en petrofísica, que involucra las densidades de la matriz, el fluido y el grano de la formación.
+
+🤖 Este ejemplo combina conocimientos de petrofísica básica (la fórmula de porosidad primaria) con el uso de Python para crear una clase que puede realizar este cálculo. Es un simple ejemplo de cómo se podría integrar conocimiento de diferentes dominios para realizar tareas específicas.
+
 ## Hiper parámetros de ChatGPT
 
 # Casos de uso de ChatGPT
