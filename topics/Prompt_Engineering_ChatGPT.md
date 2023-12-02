@@ -68,11 +68,14 @@ La *iteración* en prompt engineering es una técnica para orientar al modelo a 
 La principal diferencia entre *few-shot* prompting y *one-prompting* es que *few-shot* prompting puede obtener una precisión mayor con unos cuantos ejemplos de entrenamiento. *One-shot* prompting puede ser menos preciso debido a que utiliza solo un ejemplo de entramiento.
 
 # Técnicas avanzadas de prompt engineering
-* Role play
-* knowledge Generation / Knowledge Integration
-* Hiper parámetros de ChatGPT
+* [Role play]()
+* [knowledge Generation]()
+* [Knowledge Integration]()
+* [Hyper parámetros de ChatGPT]()
 
 ## Role play
+Es una tecnica usada para indicarle al model que **actue como . .**. El modelo toma la personalidad que le solicitamos y a partir de este, proporciona respuestas
+
 ## Knowledge Generation / Knowledge Integration
 Son técnicas usadas para mejorar los modelos de lenguaje y que incluye la capacidad de generar y/o incorporar conocimiento o información para ayudar al modelo a generar respuestas mucho mas precisas.
 
