@@ -282,6 +282,14 @@ Es el numero de respuestas o outputs que se esperan de un prompt. Este se puede 
 
 *Fin*
 
+
 [Hyper parametros de Chat-GPT](https://learn.microsoft.com/en-us/connectors/openaigpt4ip/#edit-prompt)
 
+## Como crear contenido extenso en Chat-GPT
+
+ChatGPT, puee ccrear contenido pero no tan extenso, a partir de un prompt. Para eso, hay tecnicas que aplican para que el modelo vaya creando contenido en base a varios prompt, que tienen una secuencia y que el modelo es capaz de hilar y corregir hasta llegar al resultado deseado.
+
+
 # Casos de uso de ChatGPT
+
+
