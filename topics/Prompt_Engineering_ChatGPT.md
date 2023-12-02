@@ -255,6 +255,9 @@ Genera una historia corta sobre un explorador en un bosque mágico. La temperatu
 
 👀 Según el profesor en el curso [Hyper parametros](https://platzi.com/new-home/clases/7296-chatgpt/61985-hiper-parametros-de-chatgpt/), no es recomendable usar ambos parametros en un mismo prompt. Este curso es del 2021
 
+#### Hyper parametro "n"
+Es el numero de respuestas o outputs que se esperan de un prompt. Este se puede indicar como sigue: n=4. Esto se comento en el curso, pero apicado a GPT-3, no funciona. Funciona mejor si le dices: dame 3 o "N" respuestas. Y lo hace
+
 🧠 👉 Los hyper parametros **temperature** y **top_p**, son ajustes propios de GPT-3, usados en los prompts para ajustar la diversidad y la creatividad de las respuestas generadas por el modelo. 
 
 🧠 👉 La **temperature** permite ajustar la probabilidad del uso de las palabras mas comunes, siendo que cuando temperature sea igual o cercano a 1, la probabilidad de usar palabras mas diversas aumenta, siendo mas creativo y cuando el valor es igual a 0 o muy cercano a este valor, el modelo se hace mas determinista y coherente por que emplea palabras mas comunes reduciendo la diversidad. 1 = mas pendejadas y mas abierto; 0= coherente y determinista
