@@ -302,5 +302,25 @@ Se puede aplicar para todo lo que te imagines:
 3. Como asistente personal
 
 
+# Fuentes y referencias
+- [ ] [Prompting Engineering con ChatGPT - Platzi](https://platzi.com/cursos/chatgpt/)
+- [ ] Learn Prompting org](https://learnprompting.org/es/docs/intro)
 
+# Repaso
+1. ¿Cuál de las siguientes es una aplicación común de ChatGPT con prompt engineering? Creación de contenido extenso.
+2. ¿Cuál es una de las limitaciones de ChatGPT? Puede generar respuestas plausibles, pero incorrectas.
+3. ¿Cuál es el objetivo principal del prompt engineering? Conocer la estructura interna de ChatGPT. REPASAR CLASE
+4. ¿Cuáles son los elementos principales en la estructura de un prompt? Instrucción, contexto, input y output.
+5. Un tip de prompt engineering es “reafirmar” con el objetivo de que el modelo IA te indique su propósito o si entendió su objetivo. ¿Esto es verdadero o falso? Falso, esto no es necesario con los LLM actuales. REPASAR CLASE
+6. ¿Qué es un error común al escribir un prompt para ChatGPT? Ser demasiado vago en la solicitud.
+7. ¿Cómo se puede mejorar un prompt para ChatGPT? Proporcionando ejemplos claros y precisos.
+8. ¿Cuál es la diferencia entre zero-shot y one-shot prompting? La cantidad de ejemplos necesarios para que ChatGPT aprenda.
+9. ¿Qué es la técnica de chain-of-thought prompting? Estimular una conversación continua con ChatGPT a través de una estructura de pensamiento paso a paso.
+10. ¿En qué tipo de formatos o estructuras de texto puede ChatGPT entregar información/resultados? Todas las opciones son correctas
+11. Muchas veces el modelo de IA no me dará en un comienzo el resultado que se necesita o específicamente lo que busco. En ese caso puedo darle feedback/retroalimentación continuamente sobre sus respuestas indicando qué me gusta, qué no me gusta y cómo me gustaría que fuera. ¿Cómo le llamamos a esta técnica de prompt engineering? Iterar
+
+12. ¿En qué consiste el "role play" en el contexto de ChatGPT? Hacer que el modelo actúe como un personaje o profesión específica.
+13. ¿Qué es "knowledge generation" en el contexto de ChatGPT? Hacer que el modelo genere información nueva y útil para trabajar con esos datos.
+14. ¿Qué hiper parámetro de ChatGPT se utiliza para controlar el nivel de creatividad en las respuestas del LLM? Temperature
+15. En el contexto de la corrección de estilos, ¿cómo puede utilizarse ChatGPT en prompt engineering? Para cambiar el estilo de escritura a uno predefinido.
 
