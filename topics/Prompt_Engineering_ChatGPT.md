@@ -261,4 +261,22 @@ Genera una historia corta sobre un explorador en un bosque mágico. La temperatu
 
 🧠 👉 El ajuste del **top_p** permite elevar o disminuir el uso de palabras mas comunes y predecibles. Cuando **top_p** = 1,  Selecciona siempre la palabra más probable, similar a la generación con temperatura baja. Cuando **top-p < 1.0:** Limita la selección a un subconjunto de las palabras más probables, excluyendo palabras menos probables.
 
+🍅 Genera una historia corta sobre un explorador en un bosque mágico. La temperatura debe ser ajustada a 0.8 y el top-p a 0.7. Queremos una historia que sea creativa pero aún coherente.
+
+🤖 . . . 
+
+*En el corazón del Bosque Encantado, donde los árboles susurran melodías ancestrales y las luciérnagas danzan como estrellas fugaces, vivía un intrépido explorador llamado Aiden. Armado con una brújula mágica que parpadeaba con luz centelleante, Aiden se aventuró hacia lo desconocido, ansioso por descubrir los secretos ocultos del bosque.*
+
+*La temperatura fresca del aire vibraba con energía, mientras Aiden avanzaba entre los árboles gigantes cuyas ramas se entrelazaban en arcos formando pasillos encantados. Cada paso revelaba criaturas mágicas que observaban con ojos curiosos. Mariposas multicolores tejían arcoíris con sus alas, y los ruiseñores transformaban sus canciones en hechizos melodiosos.*
+
+*Siguiendo las indicaciones de su brújula mágica, Aiden llegó a un claro lleno de flores resplandecientes que respondían a su presencia con destellos de luz. En el centro del claro, descubrió una antigua fuente de la que fluía agua cristalina con propiedades místicas. Se acercó cauteloso, sintiendo la magia pulsar en el aire.*
+
+*Al tocar el agua de la fuente, Aiden experimentó una ráfaga de visiones. Vio el pasado del bosque, sus historias entrelazadas con la aurora boreal y sus guardianes mágicos que velaban por la armonía. La brújula parpadeaba con más intensidad, guiándolo hacia el corazón mismo del bosque.*
+
+*A medida que avanzaba, los árboles comenzaron a susurrarle mensajes antiguos y sus raíces formaron un camino luminoso. Descubrió un portal mágico que lo llevó a una dimensión etérea donde los sueños se tejían en la tela del tiempo. Allí, conoció al Guardián del Bosque, una criatura sabia que le contó la historia de la magia que sostenía el equilibrio del mundo.*
+
+*Aiden, con su alma llena de asombro, regresó al Bosque Encantado. La brújula, ahora resplandeciente, lo guió de vuelta a casa. Cada rincón del bosque celebró su retorno con una sinfonía de luz y sonido. Aiden, el explorador, llevó consigo la magia del bosque en su corazón, recordando siempre la maravilla de lo desconocido y la importancia de preservar la magia que lo envolvía. Y así, sus historias se sumaron a las leyendas del Bosque Encantado.*
+
+*Fin*
+
 # Casos de uso de ChatGPT
