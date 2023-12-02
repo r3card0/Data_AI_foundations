@@ -69,7 +69,7 @@ La principal diferencia entre *few-shot* prompting y *one-prompting* es que *few
 
 # Técnicas avanzadas de prompt engineering
 * [Role play](https://github.com/r3card0/Data_AI_foundations/blob/main/topics/Prompt_Engineering_ChatGPT.md#role-play)
-* [knowledge Generation]()
+* [knowledge Generation](https://github.com/r3card0/Data_AI_foundations/blob/main/topics/Prompt_Engineering_ChatGPT.md#knowledge-generation)
 * [Knowledge Integration]()
 * [Hyper parámetros de ChatGPT]()
 
