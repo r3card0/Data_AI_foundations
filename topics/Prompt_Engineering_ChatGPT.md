@@ -291,7 +291,11 @@ ChatGPT, puee ccrear contenido pero no tan extenso, a partir de un prompt. Para 
 
 
 # Casos de uso de ChatGPT
-Se puede aplicar para todo lo que te imagines, creación de software, resumen de texto, diseño, etc. Todo lo que se pueda extraer del lenguaje natural.
+Se puede aplicar para todo lo que te imagines:
+
+1. Creación de herramientas como: creación de software, resumen de texto, etc
+2. Como mentor personalizado de algun tema específico.
+3. Como asistente personal
 
 
 
