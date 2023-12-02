@@ -231,4 +231,16 @@ Cambiar estos ajustes sería como girar los "hiperparámetros" en la varita mág
 
 🤖 La combinación de ambos hiperparámetros permite una mayor flexibilidad y adaptación a las necesidades específicas del problema o del contexto en el que estás utilizando el modelo de lenguaje. Es recomendable experimentar con diferentes valores de temperatura y top-p para encontrar la combinación que mejor se ajuste a tus objetivos particulares.
 
+🍅 Muestra un ejemplo de estos hyper parametros en un prompt
+
+🤖 Aquí tienes un ejemplo de cómo podrías estructurar un prompt aplicando ambos hiperparámetros, temperatura y top-p, en un modelo de lenguaje como GPT:
+
+```plaintext
+Genera una historia corta sobre un explorador en un bosque mágico. La temperatura debe ser ajustada a 0.8 y el top-p a 0.7. Queremos una historia que sea creativa pero aún coherente.
+```
+
+🤖 En este prompt, estás indicando al modelo que genere una historia corta sobre un tema específico, pero también estás proporcionando instrucciones específicas sobre la temperatura y el top-p que debe utilizar durante la generación. La temperatura de 0.8 implica cierto grado de aleatoriedad y creatividad en las respuestas, mientras que el top-p de 0.7 restringe la selección de palabras a un conjunto más limitado, manteniendo la coherencia en cierta medida.
+
+🤖 Es importante tener en cuenta que los valores específicos de temperatura y top-p pueden variar según el caso de uso y las preferencias personales. Experimentar con diferentes combinaciones de hiperparámetros te permitirá obtener resultados que se alineen mejor con tus expectativas para la generación de texto.
+
 # Casos de uso de ChatGPT
