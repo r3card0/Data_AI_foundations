@@ -206,4 +206,21 @@ En este ejemplo:
 
 Cambiar estos ajustes sería como girar los "hiperparámetros" en la varita mágica para decirle al robot cómo queremos que aprenda. Así, al ajustar estos hiperparámetros, ayudamos al robot a volverse un jugador de adivinanzas muy hábil. ¡Es como darle instrucciones mágicas para que aprenda de la mejor manera posible!
 
+#### Hyper paramatros de temperatura y top_p
+🤖 Los hiperparámetros de temperatura (temperature) y top-p son específicos del modelo de lenguaje GPT (Generative Pre-trained Transformer) y están relacionados con la generación de texto. Estos hiperparámetros se utilizan para ajustar la diversidad y la creatividad de las respuestas generadas por el modelo.
+
+1. **Temperatura (Temperature):**
+   - **Baja Temperatura (valor cercano a 0):** Hace que el modelo sea más determinista y tienda a generar respuestas más predecibles y centradas en las elecciones más probables.
+   - **Alta Temperatura (valor mayor a 1):** Aumenta la aleatoriedad y la diversidad en las respuestas generadas, ya que permite que se exploren opciones menos probables.
+
+   En términos sencillos, la temperatura controla cuánto "caos" o aleatoriedad quieres en las respuestas del modelo. Una temperatura baja tiende a producir respuestas más conservadoras y coherentes, mientras que una temperatura alta puede dar lugar a respuestas más sorprendentes y variadas.
+
+2. **Top-p (también conocido como Nucleus Sampling):**
+   - **Top-p = 1.0:** Selecciona siempre la palabra más probable, similar a la generación con temperatura baja.
+   - **Top-p < 1.0:** Limita la selección a un subconjunto de las palabras más probables, excluyendo palabras menos probables.
+
+   🤖 El hiperparámetro top-p se utiliza para controlar la probabilidad acumulativa de las palabras que se consideran para la generación de texto. Reducir top-p permite que el modelo se centre en un conjunto más estrecho de opciones, eliminando las opciones menos probables.
+
+🤖 Estos hiperparámetros son útiles cuando se quiere ajustar el equilibrio entre la coherencia y la creatividad en la generación de texto. La elección de valores específicos dependerá del escenario de uso y de la naturaleza deseada de las respuestas generadas. Experimentar con diferentes valores de temperatura y top-p puede ayudar a obtener el tipo de salida que mejor se adapte a tus necesidades.
+
 # Casos de uso de ChatGPT
