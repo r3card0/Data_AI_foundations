@@ -223,4 +223,12 @@ Cambiar estos ajustes sería como girar los "hiperparámetros" en la varita mág
 
 🤖 Estos hiperparámetros son útiles cuando se quiere ajustar el equilibrio entre la coherencia y la creatividad en la generación de texto. La elección de valores específicos dependerá del escenario de uso y de la naturaleza deseada de las respuestas generadas. Experimentar con diferentes valores de temperatura y top-p puede ayudar a obtener el tipo de salida que mejor se adapte a tus necesidades.
 
+🍅 Es bueno aplicar ambos hyper parametros en un mismo prompt?
+
+🤖 Sí, es completamente válido y a menudo es una buena práctica aplicar ambos hiperparámetros, temperatura y top-p, en un mismo prompt cuando trabajas con modelos de lenguaje como GPT. La combinación de estos hiperparámetros puede ofrecer un control más fino sobre la diversidad y la calidad de las respuestas generadas.
+
+🤖 Por ejemplo, puedes ajustar la temperatura para controlar la aleatoriedad general de las respuestas, y al mismo tiempo, usar top-p para limitar la selección de palabras a un conjunto más estrecho de las opciones más probables. Esto te permite lograr un equilibrio entre coherencia y creatividad en las respuestas generadas.
+
+🤖 La combinación de ambos hiperparámetros permite una mayor flexibilidad y adaptación a las necesidades específicas del problema o del contexto en el que estás utilizando el modelo de lenguaje. Es recomendable experimentar con diferentes valores de temperatura y top-p para encontrar la combinación que mejor se ajuste a tus objetivos particulares.
+
 # Casos de uso de ChatGPT
