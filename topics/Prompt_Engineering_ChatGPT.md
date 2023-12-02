@@ -260,7 +260,7 @@ Es el numero de respuestas o outputs que se esperan de un prompt. Este se puede 
 
 🧠 👉 Los hyper parametros **temperature** y **top_p**, son ajustes propios de GPT-3, usados en los prompts para ajustar la diversidad y la creatividad de las respuestas generadas por el modelo. 
 
-🧠 👉 La **temperature** permite ajustar la probabilidad del uso de las palabras mas comunes, siendo que cuando temperature sea igual o cercano a 1, la probabilidad de usar palabras mas diversas aumenta, siendo mas creativo y cuando el valor es igual a 0 o muy cercano a este valor, el modelo se hace mas determinista y coherente por que emplea palabras mas comunes reduciendo la diversidad. 1 = mas pendejadas y mas abierto; 0= coherente y determinista
+🧠 👉 La **temperature** 0-1. Sirve para controlar la creatividad y aleatoriedad de las respuestas que se obtienen.
 
 🧠 👉 El ajuste del **top_p** permite elevar o disminuir el uso de palabras mas comunes y predecibles. Cuando **top_p** = 1,  Selecciona siempre la palabra más probable, similar a la generación con temperatura baja. Cuando **top-p < 1.0:** Limita la selección a un subconjunto de las palabras más probables, excluyendo palabras menos probables.
 
@@ -291,5 +291,8 @@ ChatGPT, puee ccrear contenido pero no tan extenso, a partir de un prompt. Para 
 
 
 # Casos de uso de ChatGPT
+Se puede aplicar para todo lo que te imagines, creación de software, resumen de texto, diseño, etc. Todo lo que se pueda extraer del lenguaje natural.
+
+
 
 
