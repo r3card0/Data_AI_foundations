@@ -243,4 +243,16 @@ Genera una historia corta sobre un explorador en un bosque mágico. La temperatu
 
 🤖 Es importante tener en cuenta que los valores específicos de temperatura y top-p pueden variar según el caso de uso y las preferencias personales. Experimentar con diferentes combinaciones de hiperparámetros te permitirá obtener resultados que se alineen mejor con tus expectativas para la generación de texto.
 
+🍅 ¿cuales son los valores predeterminados de temperatura y top_p en GPT-3 (Dec-2023)
+
+🤖 En la implementación de GPT-3 de OpenAI, los valores predeterminados para la temperatura y top-p son los siguientes:
+
+1. **Temperatura (Temperature):** El valor predeterminado es 1.0. Una temperatura de 1.0 implica una generación moderadamente diversa y creativa. Valores más bajos, como 0.8 o 0.5, tenderán a producir respuestas más deterministas y coherentes. Valores más altos, como 1.2 o 1.5, aumentarán la aleatoriedad y la creatividad.
+
+2. **Top-p (Nucleus Sampling):** El valor predeterminado para top-p es 1.0. Esto significa que se consideran todas las palabras en el vocabulario en el proceso de generación. Al ajustar top-p a valores más bajos, como 0.8 o 0.7, se excluyen las opciones menos probables, lo que puede influir en la generación para que se centre en palabras más comunes y predecibles.
+
+🍅 Es importante destacar que estos valores predeterminados pueden variar según la implementación específica del modelo y la plataforma que estés utilizando. Siempre es aconsejable consultar la documentación específica de la API o la implementación del modelo que estás utilizando para obtener información precisa sobre los valores predeterminados.
+
+👀 Según el profesor en el curso [Hyper parametros](https://platzi.com/new-home/clases/7296-chatgpt/61985-hiper-parametros-de-chatgpt/), no es recomendable usar ambos parametros en un mismo prompt. Este curso es del 2021
+
 # Casos de uso de ChatGPT
