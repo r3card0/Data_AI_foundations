@@ -164,4 +164,46 @@ if __name__ == "__main__":
 
 ## Hiper parámetros de ChatGPT
 
+🍅 Explica el concepto de hyper parametros a un niño de 8 años
+
+🤖 ¡Hola de nuevo! Claro, intentemos con un enfoque diferente:
+
+🤖 Imagina que estás enseñando a un robot a dibujar, pero este robot tiene una varita mágica que puedes ajustar de diferentes maneras. Cuando ajustas la varita mágica, le estás diciendo al robot cómo debería dibujar de una manera especial. Es como si le dieras reglas especiales para que sus dibujos sean los mejores.
+
+🤖 Estos ajustes mágicos son como los "hiperparámetros" para el robot. Si alguna vez piensas, "Quiero que el robot haga dibujos aún más increíbles", puedes cambiar algunos de estos ajustes mágicos para que el robot dibuje de una manera diferente. Tal vez quieras que sus líneas sean más suaves o que use colores más brillantes.
+
+🤖 En la inteligencia artificial, cuando enseñamos a las computadoras a hacer cosas, también les damos reglas especiales para que aprendan. Esos ajustes mágicos son los "hiperparámetros". Pueden ser como decirle a la computadora cuánto debe aprender de los datos, o cuánto debe enfocarse en detalles específicos.
+
+🤖 En resumen, los "hiperparámetros" son como los ajustes mágicos que les decimos a las computadoras para que hagan un trabajo realmente bueno en lo que están aprendiendo. Es como darle al robot las instrucciones perfectas para que haga los mejores dibujos. ¿Cómo suena ahora?
+
+🍅 Dame un ejemplo del uso de hyper parametros en un prompt
+
+🤖 ¡Claro! Imagina que tienes una varita mágica y quieres enseñarle a una computadora a adivinar el número que estás pensando. Ahora, la varita mágica tiene algunos ajustes especiales llamados "hiperparámetros". Aquí hay un ejemplo de cómo podrías usarlos en un "prompt":
+
+**Prompt:**
+```
+Piensa en un número del 1 al 100. Quiero que la computadora adivine ese número, pero quiero que lo haga de la mejor manera posible. Ajusta los hiperparámetros para optimizar la precisión de la adivinanza. Puedes cambiar cosas como la cantidad de intentos, la velocidad de aprendizaje y la cantidad de pistas que la computadora puede utilizar.
+```
+
+🤖 En este prompt, estás dando instrucciones a la computadora sobre cómo debería ajustar sus hiperparámetros para mejorar su capacidad para adivinar el número que estás pensando. Puedes imaginarte que la computadora ajusta la "configuración" interna (hiperparámetros) para mejorar su rendimiento en la tarea específica de adivinanza.
+
+🤖 Esta es solo una manera de pensar en ello, y en el mundo real, los hiperparámetros pueden ser ajustados para tareas más complejas, como entrenar modelos de aprendizaje automático para reconocer imágenes, traducir idiomas o cualquier otra tarea específica que quieras que la computadora realice de la mejor manera posible.
+
+🤖 Otra manera. Vamos a imaginar que tienes una varita mágica que te ayuda a enseñar a un robot a jugar un juego. Ahora, la varita tiene algunos ajustes especiales llamados "hiperparámetros" que puedes cambiar para que el robot sea un jugador aún mejor.
+
+**Prompt:**
+```
+Enséñale al robot a jugar al juego de adivinanzas. Queremos que sea muy bueno y que aprenda rápido. Ajusta los hiperparámetros de la varita mágica para lograrlo.
+```
+
+En este ejemplo:
+
+1. **Tasa de Aprendizaje:** Puedes ajustar la tasa de aprendizaje para decirle al robot cuánto debe aprender de cada intento. Un valor alto hará que aprenda más rápido, pero también podría olvidar algunas cosas. Un valor bajo hará que aprenda más lentamente, pero podría recordar mejor.
+
+2. **Número de Intentos:** Puedes ajustar cuántos intentos le das al robot para aprender. Un número alto le dará más oportunidades de aprender, pero también podría tardar más tiempo. Un número bajo hará que aprenda más rápido, pero con menos oportunidades.
+
+3. **Foco en Detalles o Conceptos Generales:** Puedes ajustar si quieres que el robot preste mucha atención a detalles pequeños o si debe concentrarse en entender conceptos más grandes del juego.
+
+Cambiar estos ajustes sería como girar los "hiperparámetros" en la varita mágica para decirle al robot cómo queremos que aprenda. Así, al ajustar estos hiperparámetros, ayudamos al robot a volverse un jugador de adivinanzas muy hábil. ¡Es como darle instrucciones mágicas para que aprenda de la mejor manera posible!
+
 # Casos de uso de ChatGPT
