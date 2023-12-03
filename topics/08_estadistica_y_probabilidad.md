@@ -20,6 +20,8 @@ Variables
 Niveles de Medida
 ![Niveles de medida](https://static.platzi.com/media/user_upload/2-3e090ea0-abbb-4af8-9b75-5c7a948e9c54.jpg)
 
+La estadistica descriptiva es una tecnica matematia que obtiene, organiza, presenta y desccribe un conjunto de datos, con el proposito de facilitar el uso y generalmente usa tablas, medidas numericas o graficas.
+
 ## Herremiantas o software para estadistica
 ### Hojas de calculo
 * Excel
@@ -29,8 +31,8 @@ Niveles de Medida
 ### Lenguajes open source
 * PowerBI
 * Tableau
-* Minitab
-* looker (antes Google Studio)
+* [Minitab](https://www.minitab.com/en-us/)
+* [looker](https://cloud.google.com/looker/) (antes Google Studio)
 
 ### Lenguajes de paga
 * [SPSS](https://www.ibm.com/spss) - IBM
@@ -40,6 +42,15 @@ Niveles de Medida
 * [Matlab](https://www.mathworks.com/products/matlab.html). Para matematicos y fisicos
 * [Stata](https://www.stata.com/). Para estadistas de ciencias de la salud y ciencias politicas
 
+
+## Tablas dimensionales
+¿Cuantas preguntas se deben de hacer para encontrar el valor que se esta buscando?
+
+Esta premisa permite identifcar y clasificar una tabla de datos. Cuando solo se requiere una pregunta para encontrar el valor deseado, estamos hablando de una tabla *unidimensional*. Esto se puede observar en un reporte de ventas anual dividido en los 12 meses. Este tipo de tabla permite visualizar las ventas por mes, permitiendo asi tener en mente la pregunta, ¿cuales son las ventas en tal mes?.
+
+Por otro lado, cuando se emplean 2 preguntas para encontrar el valor buscado, estaremos hablando de *tablas bidimensionales*
+### Unidimensionales
+### Bidimensionales
 
 # Imagen
 # Estadistica descriptiva
