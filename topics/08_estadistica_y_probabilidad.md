@@ -69,6 +69,11 @@ La frecuencia relativa es el porcentaje de distribución de los datos en el tota
 |F|50|6.25|
 |G|50|6.25|
 
+¿Existe la forma en codigo, de convertir tablas de hojas de calculo a tablas de markdown?
+Del dataset principal en gsheets, ¿como hacer una tabla dinamica y crear las tablas de frecuencias y frecuencia relativa para?:
+- Genero principal (main genre)
+- clasificacion de edades (rating) y año de estreno (release year)
+
 
 
 # Imagen
