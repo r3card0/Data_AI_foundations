@@ -48,6 +48,10 @@ La estadistica descriptiva es una tecnica matematia que obtiene, organiza, prese
 
 Esta premisa permite identifcar y clasificar una tabla de datos. Cuando solo se requiere una pregunta para encontrar el valor deseado, estamos hablando de una tabla *unidimensional*. Esto se puede observar en un reporte de ventas anual dividido en los 12 meses. Este tipo de tabla permite visualizar las ventas por mes, permitiendo asi tener en mente la pregunta, ¿cuales son las ventas en tal mes?.
 
+Por otro lado, cuando se emplean 2 preguntas para encontrar el valor buscado, estaremos hablando de *tablas bidimensionales*
+### Unidimensionales
+### Bidimensionales
+
 ## Frecuencia estadistica
 La frecuencia es el numero de veces que se repite un dato dentro de un conjunto de datos
 
@@ -63,9 +67,7 @@ La frecuencia relativa es el porcentaje de distribución de los datos en el tota
 |F|50|6.25|
 |G|50|6.25|
 
-Por otro lado, cuando se emplean 2 preguntas para encontrar el valor buscado, estaremos hablando de *tablas bidimensionales*
-### Unidimensionales
-### Bidimensionales
+
 
 # Imagen
 # Estadistica descriptiva
