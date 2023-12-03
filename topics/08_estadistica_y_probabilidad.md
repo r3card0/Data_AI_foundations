@@ -60,8 +60,8 @@ La frecuencia relativa es el porcentaje de distribución de los datos en el tota
 | C | 150 | 18.75|
 | D| 100 |12.5|
 |E|100|12.5|
-|F|50|0.625|
-|G|50|.625|
+|F|50|6.25|
+|G|50|6.25|
 
 Por otro lado, cuando se emplean 2 preguntas para encontrar el valor buscado, estaremos hablando de *tablas bidimensionales*
 ### Unidimensionales
