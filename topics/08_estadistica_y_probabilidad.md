@@ -38,7 +38,7 @@ Niveles de Medida
 
 ### Academia
 * [Matlab](https://www.mathworks.com/products/matlab.html). Para matematicos y fisicos
-* [Stata](https://www.stata.com/). Para bioestadisticos y politicos
+* [Stata](https://www.stata.com/). Para estadistas de ciencias de la salud y ciencias politicas
 
 
 # Imagen
