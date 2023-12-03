@@ -22,7 +22,7 @@ Niveles de Medida
 
 La estadistica descriptiva es una tecnica matematia que obtiene, organiza, presenta y desccribe un conjunto de datos, con el proposito de facilitar el uso y generalmente usa tablas, medidas numericas o graficas.
 
-## Herremiantas o software para estadistica
+## Herramientas o software para estadistica
 ### Hojas de calculo
 * Excel
 * Numbers
