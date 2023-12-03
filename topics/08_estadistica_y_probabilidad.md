@@ -8,9 +8,9 @@
 - [ ] [Correlacion y causalidad]()
 
 # ¿Que es la estadistica?
-El objetivo de la estadistica es entender un conjunto de datos que pueden estar o no ordenados. La estadistica, permite clasificar la informacion. La mejor manera de clasificar es saber *que* datos se tienen y *cuantos*. con una clasificacion **cualitativa**. se puede saber *que* datos hay en un conjunto de datos. Por ejemplo, estudiantes, juguetes, ropa etc. Y la lcasificacion **cuantitativa**, permite saber cuantos datos se tiene.
+El objetivo de la estadistica es entender un conjunto de datos que pueden estar o no ordenados. La estadistica, permite clasificar la informacion. La mejor manera de clasificar es saber *que* datos se tienen y *cuantos*. Con una clasificacion **cualitativa**, se puede saber *que* datos hay en un conjunto de datos. Por ejemplo, estudiantes, juguetes, ropa etc. Y la clasificacion **cuantitativa**, permite saber cuantos datos se tiene.
 
-Las calsificaciones tambien se conocen como ***variables***
+A las clasificaciones, tambien se conocen como ***variables***.
 
 La clasificacion *cualitativa* utiliza etiquetas y la clasificacion *cuantitativa* utiliza numeros. Los numeros pueden ser enteros o discretos y continuos que son decimales.
 
@@ -19,6 +19,28 @@ Variables
 
 Niveles de Medida
 ![Niveles de medida](https://static.platzi.com/media/user_upload/2-3e090ea0-abbb-4af8-9b75-5c7a948e9c54.jpg)
+
+## Herremiantas o software para estadistica
+### Hojas de calculo
+* Excel
+* Numbers
+* Sheets
+
+### Lenguajes open source
+* PowerBI
+* Tableau
+* Minitab
+* looker (antes Google Studio)
+
+### Lenguajes de paga
+* [SPSS](https://www.ibm.com/spss) - IBM
+* [SAS](https://www.sas.com/en_us/home.html)
+
+### Academia
+* [Matlab](https://www.mathworks.com/products/matlab.html). Para matematicos y fisicos
+* [Stata](https://www.stata.com/). Para bioestadisticos y politicos
+
+
 # Imagen
 # Estadistica descriptiva
 # Representacion de datos
