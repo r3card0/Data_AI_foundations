@@ -10,7 +10,9 @@
 # ¿Que es la estadistica?
 El objetivo de la estadistica es entender un conjunto de datos que pueden estar o no ordenados. La estadistica, permite clasificar la informacion. La mejor manera de clasificar es saber *que* datos se tienen y *cuantos*. Con una clasificacion **cualitativa**, se puede saber *que* datos hay en un conjunto de datos. Por ejemplo, estudiantes, juguetes, ropa etc. Y la clasificacion **cuantitativa**, permite saber cuantos datos se tiene.
 
-A las clasificaciones, tambien se conocen como ***variables***.
+La clasificacion cualitativa también es conocida como *categorica*, porque hace *categorias* de los datos.
+
+👉 A las clasificaciones, tambien se conocen como ***variables***.
 
 La clasificacion *cualitativa* utiliza etiquetas y la clasificacion *cuantitativa* utiliza numeros. Los numeros pueden ser enteros o discretos y continuos que son decimales.
 
