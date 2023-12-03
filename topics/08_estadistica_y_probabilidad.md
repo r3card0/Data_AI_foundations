@@ -12,9 +12,9 @@ El objetivo de la estadistica es entender un conjunto de datos que pueden estar 
 
 La clasificacion cualitativa también es conocida como *categorica*, porque hace *categorias* de los datos.
 
-👉 A las clasificaciones, tambien se conocen como ***variables***.
-
 La clasificacion *cualitativa* utiliza etiquetas y la clasificacion *cuantitativa* utiliza numeros. Los numeros pueden ser enteros o discretos y continuos que son decimales.
+
+👉 A las clasificaciones, tambien se conocen como ***variables***.
 
 Variables
 ![Variables](https://static.platzi.com/media/user_upload/1-919bc16b-89a7-44b4-99af-d0d5fca05347.jpg)
