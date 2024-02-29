@@ -73,7 +73,7 @@ La frecuencia relativa es el porcentaje de distribución de los datos en el tota
 
 En gsheets, crear una agrupación por decadas donde se tiene una tabla dinamica y tiene como filas todos los años. Sobre esa columna, dar click derecho y elegir la opcion *Crear regla de grupo dinámico*. En la ventana *Regla de agrupación*, colocar 1900 como *valor mínimo* y 2030 como *valor máximo* y 10 como *tamaño del intervalo*
 
-![imagen](/img/)
+![imagen](/topics/img/grupo_dinamico.png)
 
 **Reto**
 
