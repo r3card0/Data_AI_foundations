@@ -8,9 +8,9 @@
 - [ ] [Correlacion y causalidad]()
 
 # ¿Que es la estadistica?
-El objetivo de la estadistica es entender un conjunto de datos que pueden estar o no ordenados. La estadistica, permite clasificar la informacion. La mejor manera de clasificar es saber *que* datos se tienen y *cuantos*. Con una clasificacion **cualitativa**, se puede saber *que* datos hay en un conjunto de datos. Por ejemplo, estudiantes, juguetes, ropa etc. Y la clasificacion **cuantitativa**, permite saber cuantos datos se tiene.
+El objetivo de la estadística es entender un conjunto de datos que pueden estar o no ordenados. La estadística, permite clasificar la información. La mejor manera de clasificar es saber *que* datos se tienen y *cuantos*. Con una clasificación **cualitativa**, se puede saber *que* datos hay en un conjunto de datos. Por ejemplo, estudiantes, juguetes, ropa etc. Y la clasificación **cuantitativa**, permite saber cuantos datos se tiene.
 
-La clasificacion cualitativa también es conocida como *categorica*, porque hace *categorias* de los datos.
+La clasificación cualitativa también es conocida como *categórica*, porque hace *categorias* de los datos.
 
 La clasificacion *cualitativa* utiliza etiquetas y la clasificacion *cuantitativa* utiliza numeros. Los numeros pueden ser enteros o discretos y continuos que son decimales.
 
@@ -22,7 +22,7 @@ Variables
 Niveles de Medida
 ![Niveles de medida](https://static.platzi.com/media/user_upload/2-3e090ea0-abbb-4af8-9b75-5c7a948e9c54.jpg)
 
-La estadistica descriptiva es una tecnica matematia que obtiene, organiza, presenta y desccribe un conjunto de datos, con el proposito de facilitar el uso y generalmente usa tablas, medidas numericas o graficas.
+***La estadística descriptiva es una técnica matemática que obtiene, organiza, presenta y describe un conjunto de datos, con el propósito de facilitar el uso y generalmente usa tablas, medidas numéricas o gráficas.***
 
 ## Herramientas o software para estadistica
 ### Hojas de calculo
