@@ -83,7 +83,18 @@ En gsheets, crear una agrupación por decadas donde se tiene una tabla dinamica 
 
 
 
-# Imagen
+# Imagen - Tipos de Gráficos
+## Diagrama de tallo y hoja 🍃
+Son diagramas para data sets que tienen pocos datos, como por ejemplo 20, se puede listar y visualizar para representar la diferencia entre las decenas y las unidades con el fin de que en los tallos se representan las decenas y las hojas serán las unidades.
+
+[Ejemplo tallo/hojas](https://colab.research.google.com/drive/1TlDrDTDBfePzP6PTevMyKEGL86tOm5Ql?usp=sharing)
+
+# Grafico de puntos
+
+## Barras 📊
+Sirven para comparar de la cantidad de veces que se ha repetido un valor en un conjunto de datos grandes.
+
+
 # Estadistica descriptiva
 # Representacion de datos
 # Muestra y error
